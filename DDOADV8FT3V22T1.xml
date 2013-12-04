@@ -1,0 +1,19 @@
+<game_object tsid="DDOADV8FT3V22T1" ts="1355112616138" label="To Do" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<object id="quests">
+			<objref id="kindly_randomness" tsid="QUVUOKOSDJV2U0O"/>
+			<objref id="phantom_glitch" tsid="QIFIJE0GNM035I3"/>
+			<objref id="teleportation_teleport_with_followers" tsid="QUVSGDP8E81325K"/>
+			<objref id="bogspecialization_harvest_full_peat_bog_in_time_period" tsid="QIF4INNTL9138K0"/>
+			<objref id="soilappreciation_get_all_back_yard_trees_to_level10" tsid="QHFRBR18LJ23SM3"/>
+			<objref id="croppery_harvest_all_crops" tsid="QHFA8CDRKD53NO1"/>
+			<objref id="saucery_make_level2_recipes" tsid="QHFDFRKMOQ53HN2"/>
+			<objref id="remoteherdkeeping_fill_up_meat_collector_and_milker" tsid="QHFVVPPM6V631EI"/>
+			<objref id="explore_the_seams" tsid="QHFDF6QHTH736S4"/>
+			<objref id="cocktailcrafting_make_level2_recipes" tsid="QHF2TPIGV9830T0"/>
+			<objref id="herbalism_plant_seeds_in_someones_garden" tsid="QHFAPRFVEL83VKM"/>
+			<objref id="masterchef_make_level1_recipes" tsid="QHFH89KESQ833LQ"/>
+			<objref id="puzzle_level_light_perspective" tsid="QUVRNSB6OP93JCV"/>
+		</object>
+	</object>
+</game_object>

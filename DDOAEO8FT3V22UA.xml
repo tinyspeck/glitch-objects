@@ -1,0 +1,29 @@
+<game_object tsid="DDOAEO8FT3V22UA" ts="1355106711281" label="Teleportation" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 18:29:48.000" upd_time="2012-12-09 18:08:47.410">
+	<object id="dynamic">
+		<object id="targets">
+			<object id="1">
+				<str id="tsid">LA5132LA0J526JJ</str>
+				<int id="x">2160</int>
+				<int id="y">-85</int>
+				<str id="label">Boor Bane A</str>
+			</object>
+			<object id="2">
+				<str id="tsid">LLI3272LOTD1B1F</str>
+				<int id="x">-2070</int>
+				<int id="y">-66</int>
+				<str id="label">Groddle Forest Junction</str>
+			</object>
+			<object id="3">
+				<str id="tsid">LIF1SGGD7EU12T5</str>
+				<int id="x">-1883</int>
+				<int id="y">-270</int>
+				<str id="label">Lentua Lane</str>
+			</object>
+		</object>
+		<int id="map_teleports_today">0</int>
+		<int id="free_summons_today">0</int>
+		<int id="paid_summons_today">0</int>
+		<int id="map_paid_teleports_today">0</int>
+		<int id="token_balance">2</int>
+	</object>
+</game_object>

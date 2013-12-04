@@ -1,0 +1,27 @@
+<game_object tsid="BHVB2JES3023POH" ts="1355112616234" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+	</object>
+	<int id="x">3</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IHF8DTSC4PC3SH8" label="Blue Sno Cone"/>
+		<objref tsid="IHVU1LM438G318C" label="Cloud 11 Smoothie"/>
+		<objref tsid="IHVB81T84KC37G1" label="Walloping Big Diamond"/>
+		<objref tsid="IHF45T7BAG23UFQ" label="Spice Plant Bean"/>
+		<objref tsid="IUV2PLDNA0D3TLD" label="Bead of Ouzian Necklace"/>
+		<objref tsid="IHVSRJ5MSD23FMN" label="Plain Bubble"/>
+		<objref tsid="IHF960KOOV83NCD" label="Grain"/>
+		<objref tsid="IHV1BMO2OV8308L" label="Too-Berry Shake"/>
+		<objref tsid="IUVT7LECOP93PA9" label="Emotional Bear"/>
+		<objref tsid="IHVMFST7AG2386E" label="Wood Tree Bean"/>
+		<objref tsid="IHF59HE9OV83QOK" label="Cheezy Sauce"/>
+		<objref tsid="IIF58T3B6B23D7J" label="Corn"/>
+		<objref tsid="IUVJ782EHMC3VT5" label="Ice"/>
+		<objref tsid="IHF2B0BSNV83L1L" label="Bubble Tea"/>
+		<objref tsid="IUVC5LANGMC3FB5" label="Play Cube"/>
+		<objref tsid="IHF8AQ2TOP93FDT" label="Conch"/>
+	</objrefs>
+</game_object>

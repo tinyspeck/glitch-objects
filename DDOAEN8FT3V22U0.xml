@@ -1,0 +1,63 @@
+<game_object tsid="DDOAEN8FT3V22U0" ts="1355112616219" label="Conversations" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:02.000">
+	<object id="dynamic">
+		<object id="completed">
+			<object id="npc_letterblock">
+				<int id="four_letter_word">1337042339</int>
+				<int id="four_letter_word_2">1337042368</int>
+				<int id="four_letter_word_3">1337042393</int>
+				<int id="spelled_word">1337042424</int>
+				<int id="anagrams">1337388764</int>
+				<int id="done_spelling_3">1337388949</int>
+			</object>
+			<object id="npc_smuggler">
+				<int id="give_first_time">1338400997</int>
+				<int id="receive_first_time">1338401209</int>
+				<int id="give_repeat3">1338925742</int>
+				<int id="receive_repeat1">1338926092</int>
+				<int id="give_repeat2">1339918037</int>
+			</object>
+			<object id="npc_quest_widget">
+				<int id="rook_museum_enter">1338924918</int>
+			</object>
+			<object id="npc_quest_giver_widget">
+				<int id="hall_repeat">1338925232</int>
+			</object>
+			<object id="npc_maintenance_bot">
+				<int id="collide">1339177085</int>
+				<int id="revive_done">1339177111</int>
+			</object>
+			<object id="npc_piggy_explorer">
+				<int id="collide">1339442572</int>
+				<int id="finish_quest">1339442608</int>
+			</object>
+			<object id="butler_box">
+				<int id="read_label">1339450334</int>
+			</object>
+			<object id="hell_bartender">
+				<int id="quest_buy_wine">1340646283</int>
+			</object>
+			<object id="npc_myopic_frog">
+				<int id="introduction">1346262239</int>
+			</object>
+			<object id="npc_piggy">
+				<int id="piggy_tales_1">1355099133</int>
+			</object>
+		</object>
+		<object id="offered">
+			<object id="npc_chicken">
+				<int id="chickens_cautionary_tales_1">1347302181</int>
+			</object>
+			<object id="trant_fruit">
+				<int id="brief_thoughts_of_the_fruit_tree_1">1351287791</int>
+			</object>
+			<object id="trant_egg">
+				<int id="ruminations_of_an_egg_plant_1">1352157417</int>
+			</object>
+		</object>
+		<object id="chains_completed">
+		</object>
+		<object id="chains_inprogress">
+		</object>
+		<int id="last_offer">1355099104</int>
+	</object>
+</game_object>

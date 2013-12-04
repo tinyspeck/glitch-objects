@@ -1,0 +1,2387 @@
+<game_object tsid="DDOAEQ8FT3V22UD" ts="1355112616220" label="Imagination" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<object id="upgrades">
+			<array id="quoin_multiplier">
+				<int id="0">1336771320</int>
+				<int id="1">1336771327</int>
+				<int id="2">1336771332</int>
+				<int id="3">1336771362</int>
+				<int id="4">1336771369</int>
+				<int id="5">1336771374</int>
+				<int id="6">1336772208</int>
+				<int id="7">1336773316</int>
+				<int id="8">1337042486</int>
+				<int id="9">1337043543</int>
+				<int id="10">1337068963</int>
+				<int id="11">1337068968</int>
+				<int id="12">1337146462</int>
+				<int id="13">1337146497</int>
+				<int id="14">1337215327</int>
+				<int id="15">1337215338</int>
+				<int id="16">1337276150</int>
+				<int id="17">1337302591</int>
+				<int id="18">1337302607</int>
+				<int id="19">1337321925</int>
+				<int id="20">1337390044</int>
+				<int id="21">1337390082</int>
+				<int id="22">1337550841</int>
+				<int id="23">1337977016</int>
+				<int id="24">1338412556</int>
+				<int id="25">1338535367</int>
+				<int id="26">1338579862</int>
+				<int id="27">1338694473</int>
+				<int id="28">1338874383</int>
+				<int id="29">1338874390</int>
+				<int id="30">1338879768</int>
+				<int id="31">1338942894</int>
+				<int id="32">1339553906</int>
+				<int id="33">1339796491</int>
+				<int id="34">1339799360</int>
+				<int id="35">1339816925</int>
+				<int id="36">1339816945</int>
+				<int id="37">1340398397</int>
+				<int id="38">1340507198</int>
+				<int id="39">1340674909</int>
+				<int id="40">1340674914</int>
+				<int id="41">1343265381</int>
+				<int id="42">1345854677</int>
+				<int id="43">1345854701</int>
+				<int id="44">1346957339</int>
+				<int id="45">1348263917</int>
+			</array>
+			<array id="energy_tank">
+				<int id="0">1336771339</int>
+				<int id="1">1336771344</int>
+				<int id="2">1336771357</int>
+				<int id="3">1336771393</int>
+				<int id="4">1336771398</int>
+				<int id="5">1336771407</int>
+				<int id="6">1336771421</int>
+				<int id="7">1336771881</int>
+				<int id="8">1337146479</int>
+				<int id="9">1337146485</int>
+				<int id="10">1337146489</int>
+				<int id="11">1337148241</int>
+				<int id="12">1337302616</int>
+				<int id="13">1337977051</int>
+				<int id="14">1337977056</int>
+				<int id="15">1338535376</int>
+				<int id="16">1338535380</int>
+				<int id="17">1338874396</int>
+				<int id="18">1339042404</int>
+				<int id="19">1339457762</int>
+				<int id="20">1339553900</int>
+				<int id="21">1339554156</int>
+				<int id="22">1339554437</int>
+				<int id="23">1339556156</int>
+				<int id="24">1339572720</int>
+				<int id="25">1339731665</int>
+				<int id="26">1339734047</int>
+				<int id="27">1339819066</int>
+				<int id="28">1339986089</int>
+				<int id="29">1340342238</int>
+				<int id="30">1340512126</int>
+				<int id="31">1340589904</int>
+				<int id="32">1340644162</int>
+				<int id="33">1341039673</int>
+				<int id="34">1341040492</int>
+				<int id="35">1342547776</int>
+				<int id="36">1342732972</int>
+				<int id="37">1343185940</int>
+				<int id="38">1345854657</int>
+				<int id="39">1345854713</int>
+			</array>
+			<array id="achievement_reward_bonus_1">
+				<int id="0">1336771350</int>
+			</array>
+			<array id="learntime_wellness_1">
+				<int id="0">1336771386</int>
+			</array>
+			<array id="snapshotting">
+				<int id="0">1336771414</int>
+			</array>
+			<array id="brain_capacity">
+				<int id="0">1336771592</int>
+				<int id="1">1336771876</int>
+				<int id="2">1336772215</int>
+				<int id="3">1336772381</int>
+				<int id="4">1336772955</int>
+				<int id="5">1338314975</int>
+				<int id="6">1338359797</int>
+				<int id="7">1338860306</int>
+				<int id="8">1339706755</int>
+				<int id="9">1339793772</int>
+				<int id="10">1339977037</int>
+				<int id="11">1340340639</int>
+			</array>
+			<array id="learntime_animal_1">
+				<int id="0">1336771598</int>
+			</array>
+			<array id="ezcooking_less_imagination">
+				<int id="0">1336771887</int>
+			</array>
+			<array id="keepable_instant_resurrection">
+				<int id="0">1336773309</int>
+				<int id="1">1337321919</int>
+				<int id="2">1337390058</int>
+				<int id="3">1339553912</int>
+				<int id="4">1339979085</int>
+				<int id="5">1340342244</int>
+				<int id="6">1345854755</int>
+			</array>
+			<array id="quest_reward_bonus_1">
+				<int id="0">1337042454</int>
+			</array>
+			<array id="keepable_reshuffle">
+				<int id="0">1337042469</int>
+				<int id="1">1337215314</int>
+				<int id="2">1340000412</int>
+			</array>
+			<array id="achievement_reward_bonus_2">
+				<int id="0">1337042479</int>
+			</array>
+			<array id="quest_reward_bonus_2">
+				<int id="0">1337043550</int>
+			</array>
+			<array id="learntime_cooking_1">
+				<int id="0">1337068980</int>
+			</array>
+			<array id="learntime_animal_2">
+				<int id="0">1337068987</int>
+			</array>
+			<array id="meditative_arts_focus_1">
+				<int id="0">1337146456</int>
+			</array>
+			<array id="lightgreenthumb_tool_wear">
+				<int id="0">1337146473</int>
+			</array>
+			<array id="learntime_cooking_2">
+				<int id="0">1337148236</int>
+			</array>
+			<array id="meditative_arts_focus_2">
+				<int id="0">1337215300</int>
+			</array>
+			<array id="mining_time_1">
+				<int id="0">1337299981</int>
+			</array>
+			<array id="achievement_reward_bonus_3">
+				<int id="0">1337302601</int>
+			</array>
+			<array id="achievement_reward_bonus_4">
+				<int id="0">1337390053</int>
+			</array>
+			<array id="unlearning_ability">
+				<int id="0">1337549594</int>
+			</array>
+			<array id="quest_reward_bonus_3">
+				<int id="0">1337550836</int>
+			</array>
+			<array id="snapshottery_basic_filter_pack">
+				<int id="0">1338359816</int>
+			</array>
+			<array id="mining_drop_1">
+				<int id="0">1338359837</int>
+			</array>
+			<array id="smelting_drop">
+				<int id="0">1338412525</int>
+			</array>
+			<array id="alchemy_2_imagination">
+				<int id="0">1338412535</int>
+			</array>
+			<array id="daily_quoin_limit_1">
+				<int id="0">1338412548</int>
+			</array>
+			<array id="mining_expert_dullite">
+				<int id="0">1338568044</int>
+			</array>
+			<array id="refining_drop_1">
+				<int id="0">1338568049</int>
+			</array>
+			<array id="smelting_energy">
+				<int id="0">1338568056</int>
+			</array>
+			<array id="mining_high_capacity_rock">
+				<int id="0">1338575519</int>
+			</array>
+			<array id="sloth_bonus_snails">
+				<int id="0">1338860585</int>
+			</array>
+			<array id="mining_drop_2">
+				<int id="0">1338861257</int>
+			</array>
+			<array id="mining_expert_metal_rock">
+				<int id="0">1338874369</int>
+			</array>
+			<array id="rube_chance_to_meet">
+				<int id="0">1338879762</int>
+			</array>
+			<array id="mining_time_2">
+				<int id="0">1338924625</int>
+			</array>
+			<array id="rube_better_items">
+				<int id="0">1338940966</int>
+			</array>
+			<array id="quest_reward_bonus_4">
+				<int id="0">1338942901</int>
+			</array>
+			<array id="jellisac_hands_drop_1">
+				<int id="0">1339005261</int>
+			</array>
+			<array id="mining_time_3">
+				<int id="0">1339041969</int>
+			</array>
+			<array id="mining_expert_sparkly">
+				<int id="0">1339088799</int>
+			</array>
+			<array id="quest_reward_bonus_5">
+				<int id="0">1339089181</int>
+			</array>
+			<array id="mining_drop_3">
+				<int id="0">1339129419</int>
+			</array>
+			<array id="bogspecialization_dig_peat_drop">
+				<int id="0">1339177465</int>
+			</array>
+			<array id="metalmaking_imagination">
+				<int id="0">1339458637</int>
+			</array>
+			<array id="fuelmaking_imagination">
+				<int id="0">1339459872</int>
+			</array>
+			<array id="soil_appreciation_dirt_pile_1">
+				<int id="0">1339554449</int>
+			</array>
+			<array id="element_handling_bonus_1">
+				<int id="0">1339570412</int>
+			</array>
+			<array id="gardening_tree_super_harvest_1">
+				<int id="0">1339706767</int>
+			</array>
+			<array id="bogspecialization_more_peat">
+				<int id="0">1339707475</int>
+			</array>
+			<array id="engineering_reduce_time">
+				<int id="0">1339707483</int>
+			</array>
+			<array id="gardening_tree_super_harvest_2">
+				<int id="0">1339707490</int>
+			</array>
+			<array id="meditative_arts_daily_limit_1">
+				<int id="0">1339733911</int>
+			</array>
+			<array id="mining_drop_4">
+				<int id="0">1339733919</int>
+			</array>
+			<array id="gassifying_imagination">
+				<int id="0">1339793779</int>
+			</array>
+			<array id="meditative_arts_less_distraction">
+				<int id="0">1339793788</int>
+			</array>
+			<array id="recipe_task_limit_machines_1">
+				<int id="0">1339796472</int>
+			</array>
+			<array id="refining_time_1">
+				<int id="0">1339796482</int>
+			</array>
+			<array id="element_handling_bonus_2">
+				<int id="0">1339797118</int>
+			</array>
+			<array id="metalmaking_music">
+				<int id="0">1339799355</int>
+			</array>
+			<array id="daily_quoin_limit_2">
+				<int id="0">1339816920</int>
+			</array>
+			<array id="learntime_gardening_1">
+				<int id="0">1339816932</int>
+			</array>
+			<array id="learntime_alchemy_1">
+				<int id="0">1339816936</int>
+			</array>
+			<array id="mining_expert_beryl">
+				<int id="0">1339819073</int>
+			</array>
+			<array id="alchemy_1_imagination">
+				<int id="0">1339819080</int>
+			</array>
+			<array id="gardening_harvest_wood">
+				<int id="0">1339977049</int>
+			</array>
+			<array id="barnacle_scraping_speed_1">
+				<int id="0">1339979078</int>
+			</array>
+			<array id="engineering_disassemble_machine">
+				<int id="0">1339979330</int>
+			</array>
+			<array id="jellisac_hands_speed_1">
+				<int id="0">1339983534</int>
+			</array>
+			<array id="learntime_animal_3">
+				<int id="0">1339983546</int>
+			</array>
+			<array id="meditative_arts_max_relax">
+				<int id="0">1339985192</int>
+			</array>
+			<array id="botany_imagination">
+				<int id="0">1339985864</int>
+			</array>
+			<array id="learntime_harvesting_1">
+				<int id="0">1339985870</int>
+			</array>
+			<array id="learntime_alchemy_2">
+				<int id="0">1339986098</int>
+			</array>
+			<array id="ezcooking_tool_wear">
+				<int id="0">1339986118</int>
+			</array>
+			<array id="hoeing_more_img_more_wear">
+				<int id="0">1340000400</int>
+			</array>
+			<array id="daily_quoin_limit_3">
+				<int id="0">1340000407</int>
+			</array>
+			<array id="engineering_assemble_machine">
+				<int id="0">1340000425</int>
+			</array>
+			<array id="recipe_task_limit_machines_2">
+				<int id="0">1340003089</int>
+			</array>
+			<array id="bog_specialization_dig_peat_bog_twice">
+				<int id="0">1340398389</int>
+			</array>
+			<array id="intermediate_admixing_imagination_1">
+				<int id="0">1340402046</int>
+			</array>
+			<array id="lightgreenthumb_water_drop_1">
+				<int id="0">1340402054</int>
+			</array>
+			<array id="smelting_tool_wear">
+				<int id="0">1340402100</int>
+			</array>
+			<array id="lightgreenthumb_water_drop_2">
+				<int id="0">1340432747</int>
+			</array>
+			<array id="lightgreenthumb_pet_drop_1">
+				<int id="0">1340432754</int>
+			</array>
+			<array id="refining_time_2">
+				<int id="0">1340435406</int>
+			</array>
+			<array id="lightgreenthumb_pet_drop_2">
+				<int id="0">1340507204</int>
+			</array>
+			<array id="refining_drop_2">
+				<int id="0">1340507247</int>
+			</array>
+			<array id="meditative_arts_imagination">
+				<int id="0">1340512134</int>
+			</array>
+			<array id="intermediate_admixing_imagination_2">
+				<int id="0">1340515093</int>
+			</array>
+			<array id="animal_kinship_super_harvest_1">
+				<int id="0">1340517389</int>
+			</array>
+			<array id="achievement_reward_bonus_5">
+				<int id="0">1340644170</int>
+			</array>
+			<array id="meditative_arts_daily_limit_2">
+				<int id="0">1340644178</int>
+			</array>
+			<array id="learntime_gardening_2">
+				<int id="0">1340674934</int>
+			</array>
+			<array id="learntime_wellness_2">
+				<int id="0">1340674939</int>
+			</array>
+			<array id="learntime_harvesting_2">
+				<int id="0">1340674943</int>
+			</array>
+			<array id="animal_husbandry_twin_animals_1">
+				<int id="0">1340674949</int>
+			</array>
+			<array id="gardening_tree_super_harvest_3">
+				<int id="0">1340674955</int>
+			</array>
+			<array id="gardening_harvest_gas">
+				<int id="0">1340674962</int>
+			</array>
+			<array id="animal_kinship_super_harvest_2">
+				<int id="0">1340688616</int>
+			</array>
+			<array id="fiber_arts_bonus_1">
+				<int id="0">1341007537</int>
+			</array>
+			<array id="gardening_harvest_egg">
+				<int id="0">1341039680</int>
+			</array>
+			<array id="animal_husbandry_twin_animals_2">
+				<int id="0">1341039685</int>
+			</array>
+			<array id="fox_brushing_bonus">
+				<int id="0">1341039690</int>
+			</array>
+			<array id="learntime_industrial_1">
+				<int id="0">1341040746</int>
+			</array>
+			<array id="distilling_grain">
+				<int id="0">1341041318</int>
+			</array>
+			<array id="trade_channel">
+				<int id="0">1342547782</int>
+			</array>
+			<array id="food_variety_bonus">
+				<int id="0">1342547800</int>
+			</array>
+			<array id="gardening_harvest_bubble">
+				<int id="0">1342547810</int>
+			</array>
+			<array id="gardening_harvest_bean">
+				<int id="0">1342547816</int>
+			</array>
+			<array id="blockmaking_save_fuel_1">
+				<int id="0">1342547823</int>
+			</array>
+			<array id="walk_speed_1">
+				<int id="0">1342669407</int>
+			</array>
+			<array id="walk_speed_2">
+				<int id="0">1342669407</int>
+			</array>
+			<array id="walk_speed_3">
+				<int id="0">1342669407</int>
+			</array>
+			<array id="jump_1">
+				<int id="0">1342669407</int>
+			</array>
+			<array id="jump_2">
+				<int id="0">1342669407</int>
+			</array>
+			<array id="jump_triple_1">
+				<int id="0">1342669407</int>
+			</array>
+			<array id="gardening_harvest_spice">
+				<int id="0">1342732200</int>
+			</array>
+			<array id="distilling_corn">
+				<int id="0">1342732979</int>
+			</array>
+			<array id="ticket_to_paradise_starlit_night">
+				<int id="0">1343186431</int>
+			</array>
+			<array id="ticket_to_paradise_radial_heights">
+				<int id="0">1343186437</int>
+				<int id="1">1345854724</int>
+				<int id="2">1347301480</int>
+			</array>
+			<array id="toolcrafting_imagination_1">
+				<int id="0">1343186443</int>
+			</array>
+			<array id="soil_appreciation_dirt_pile_2">
+				<int id="0">1343242732</int>
+			</array>
+			<array id="grilling_tool_wear">
+				<int id="0">1343243876</int>
+			</array>
+			<array id="ticket_to_paradise_arbor_hollow">
+				<int id="0">1343243882</int>
+				<int id="1">1343265370</int>
+			</array>
+			<array id="blending_imagination">
+				<int id="0">1343243888</int>
+			</array>
+			<array id="recipe_task_limit_transmog_1">
+				<int id="0">1343243896</int>
+			</array>
+			<array id="distilling_potato">
+				<int id="0">1343265365</int>
+			</array>
+			<array id="blending_tool_wear">
+				<int id="0">1343265386</int>
+			</array>
+			<array id="barnacle_scraping_drop_1">
+				<int id="0">1345854662</int>
+			</array>
+			<array id="learntime_cooking_3">
+				<int id="0">1345854667</int>
+			</array>
+			<array id="vendors_lower_sell_price_1">
+				<int id="0">1345854672</int>
+			</array>
+			<array id="ticket_to_paradise_beam_me_down">
+				<int id="0">1345854681</int>
+			</array>
+			<array id="ticket_to_paradise_slip_n_slide">
+				<int id="0">1345854685</int>
+				<int id="1">1345855259</int>
+			</array>
+			<array id="recipe_task_limit_food_1">
+				<int id="0">1345854692</int>
+			</array>
+			<array id="croppery_time_1">
+				<int id="0">1345854697</int>
+			</array>
+			<array id="cheffery_tool_wear">
+				<int id="0">1345854720</int>
+			</array>
+			<array id="fiber_arts_bonus_2">
+				<int id="0">1345854731</int>
+			</array>
+			<array id="ticket_to_paradise_sky_plunge">
+				<int id="0">1345854744</int>
+			</array>
+			<array id="fruitchanging_imagination">
+				<int id="0">1345854751</int>
+			</array>
+			<array id="croppery_time_2">
+				<int id="0">1345855251</int>
+			</array>
+			<array id="ticket_to_paradise_cloud_rings">
+				<int id="0">1345855255</int>
+			</array>
+			<array id="saucery_imagination">
+				<int id="0">1346101387</int>
+			</array>
+			<array id="vendors_lower_sell_price_2">
+				<int id="0">1346101396</int>
+			</array>
+			<array id="ticket_to_paradise_mountain_scaling">
+				<int id="0">1346956346</int>
+			</array>
+			<array id="herbalism_time_1">
+				<int id="0">1346957335</int>
+			</array>
+			<array id="herdkeeping_animal_sadness_1">
+				<int id="0">1346957344</int>
+			</array>
+			<array id="cheffery_imagination">
+				<int id="0">1346957348</int>
+			</array>
+			<array id="grilling_less_imagination">
+				<int id="0">1346957351</int>
+			</array>
+			<array id="recipe_task_limit_drink_1">
+				<int id="0">1346957356</int>
+			</array>
+			<array id="learntime_alchemy_3">
+				<int id="0">1346957360</int>
+			</array>
+			<array id="learntime_gardening_3">
+				<int id="0">1346957364</int>
+			</array>
+			<array id="learntime_cooking_4">
+				<int id="0">1346957386</int>
+			</array>
+			<array id="learntime_industrial_2">
+				<int id="0">1346957397</int>
+			</array>
+			<array id="cocktail_crafting_tool_wear">
+				<int id="0">1346957403</int>
+			</array>
+			<array id="animal_kinship_super_harvest_3">
+				<int id="0">1346957406</int>
+			</array>
+			<array id="toolcrafting_bonus_tool">
+				<int id="0">1346968259</int>
+			</array>
+			<array id="croppery_growing_drop_1">
+				<int id="0">1346968263</int>
+			</array>
+			<array id="tincturing_imagination">
+				<int id="0">1347301471</int>
+			</array>
+			<array id="potionmaking_imagination">
+				<int id="0">1347301476</int>
+			</array>
+			<array id="croppery_super_harvest_1">
+				<int id="0">1347301485</int>
+			</array>
+			<array id="master_chef_imagination">
+				<int id="0">1347301491</int>
+			</array>
+			<array id="master_chef_tool_wear">
+				<int id="0">1347301494</int>
+			</array>
+			<array id="icon_tithe_1">
+				<int id="0">1347301501</int>
+			</array>
+			<array id="saucery_tool_wear">
+				<int id="0">1347301505</int>
+			</array>
+			<array id="cocktail_crafting_imagination">
+				<int id="0">1347301562</int>
+			</array>
+			<array id="remoteherdkeeping_production_1">
+				<int id="0">1347301566</int>
+			</array>
+			<array id="herbalism_shucking_1">
+				<int id="0">1347301576</int>
+			</array>
+			<array id="snapshottery_filter_pack_1">
+				<int id="0">1348093878</int>
+			</array>
+			<array id="snapshottery_filter_pack_2">
+				<int id="0">1348093878</int>
+			</array>
+			<array id="snapshottery_filter_pack_3">
+				<int id="0">1348093878</int>
+			</array>
+			<array id="gardening_harvest_fruit">
+				<int id="0">1348263922</int>
+			</array>
+			<array id="icon_tithe_2">
+				<int id="0">1348263929</int>
+			</array>
+			<array id="focused_meditation_imagination">
+				<int id="0">1348263948</int>
+			</array>
+		</object>
+		<object id="hand">
+			<object id="1">
+				<str id="class_tsid">vendors_higher_buy_price_1</str>
+				<int id="amount">0</int>
+				<int id="cost">10000</int>
+			</object>
+			<object id="2">
+				<str id="class_tsid">unlearning_time_1</str>
+				<int id="amount">0</int>
+				<int id="cost">5000</int>
+			</object>
+			<object id="0">
+				<str id="class_tsid">batterfly_bonus_guano</str>
+				<int id="amount">0</int>
+				<int id="cost">2000</int>
+			</object>
+		</object>
+		<array id="history">
+			<object id="0">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">100</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336771320</int>
+			</object>
+			<object id="1">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">100</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336771327</int>
+			</object>
+			<object id="2">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">100</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336771332</int>
+			</object>
+			<object id="3">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">200</int>
+				<int id="amount">10</int>
+				<int id="when">1336771339</int>
+			</object>
+			<object id="4">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">200</int>
+				<int id="amount">10</int>
+				<int id="when">1336771344</int>
+			</object>
+			<object id="5">
+				<str id="class_tsid">achievement_reward_bonus_1</str>
+				<int id="cost">250</int>
+				<int id="amount">0</int>
+				<int id="when">1336771350</int>
+			</object>
+			<object id="6">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">200</int>
+				<int id="amount">10</int>
+				<int id="when">1336771357</int>
+			</object>
+			<object id="7">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">100</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336771362</int>
+			</object>
+			<object id="8">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">100</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336771369</int>
+			</object>
+			<object id="9">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">500</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1336771374</int>
+			</object>
+			<object id="10">
+				<str id="class_tsid">learntime_wellness_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1336771386</int>
+			</object>
+			<object id="11">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">300</int>
+				<int id="amount">10</int>
+				<int id="when">1336771393</int>
+			</object>
+			<object id="12">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">300</int>
+				<int id="amount">10</int>
+				<int id="when">1336771398</int>
+			</object>
+			<object id="13">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">300</int>
+				<int id="amount">10</int>
+				<int id="when">1336771407</int>
+			</object>
+			<object id="14">
+				<str id="class_tsid">snapshotting</str>
+				<int id="cost">300</int>
+				<int id="amount">0</int>
+				<int id="when">1336771414</int>
+			</object>
+			<object id="15">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">400</int>
+				<int id="amount">10</int>
+				<int id="when">1336771421</int>
+			</object>
+			<object id="16">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">400</int>
+				<int id="amount">1</int>
+				<int id="when">1336771592</int>
+			</object>
+			<object id="17">
+				<str id="class_tsid">learntime_animal_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1336771598</int>
+			</object>
+			<object id="18">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">400</int>
+				<int id="amount">1</int>
+				<int id="when">1336771876</int>
+			</object>
+			<object id="19">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">400</int>
+				<int id="amount">10</int>
+				<int id="when">1336771881</int>
+			</object>
+			<object id="20">
+				<str id="class_tsid">ezcooking_less_imagination</str>
+				<int id="cost">200</int>
+				<int id="amount">0</int>
+				<int id="when">1336771887</int>
+			</object>
+			<object id="21">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">250</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336772208</int>
+			</object>
+			<object id="22">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">500</int>
+				<int id="amount">1</int>
+				<int id="when">1336772215</int>
+			</object>
+			<object id="23">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">630</int>
+				<int id="amount">1</int>
+				<int id="when">1336772381</int>
+			</object>
+			<object id="24">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">980</int>
+				<int id="amount">1</int>
+				<int id="when">1336772955</int>
+			</object>
+			<object id="25">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">20</int>
+				<int id="amount">0</int>
+				<int id="when">1336773309</int>
+			</object>
+			<object id="26">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">250</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1336773316</int>
+			</object>
+			<object id="27">
+				<str id="class_tsid">quest_reward_bonus_1</str>
+				<int id="cost">200</int>
+				<int id="amount">0</int>
+				<int id="when">1337042454</int>
+			</object>
+			<object id="28">
+				<str id="class_tsid">keepable_reshuffle</str>
+				<int id="cost">35</int>
+				<int id="amount">0</int>
+				<int id="when">1337042469</int>
+			</object>
+			<object id="29">
+				<str id="class_tsid">achievement_reward_bonus_2</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1337042479</int>
+			</object>
+			<object id="30">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">250</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337042486</int>
+			</object>
+			<object id="31">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">250</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337043543</int>
+			</object>
+			<object id="32">
+				<str id="class_tsid">quest_reward_bonus_2</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1337043550</int>
+			</object>
+			<object id="33">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1000</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1337068963</int>
+			</object>
+			<object id="34">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">500</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337068968</int>
+			</object>
+			<object id="35">
+				<str id="class_tsid">learntime_cooking_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1337068980</int>
+			</object>
+			<object id="36">
+				<str id="class_tsid">learntime_animal_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1337068987</int>
+			</object>
+			<object id="37">
+				<str id="class_tsid">meditative_arts_focus_1</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1337146456</int>
+			</object>
+			<object id="38">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1000</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1337146462</int>
+			</object>
+			<object id="39">
+				<str id="class_tsid">lightgreenthumb_tool_wear</str>
+				<int id="cost">200</int>
+				<int id="amount">0</int>
+				<int id="when">1337146473</int>
+			</object>
+			<object id="40">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">400</int>
+				<int id="amount">10</int>
+				<int id="when">1337146479</int>
+			</object>
+			<object id="41">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">400</int>
+				<int id="amount">10</int>
+				<int id="when">1337146485</int>
+			</object>
+			<object id="42">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1337146489</int>
+			</object>
+			<object id="43">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">500</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337146497</int>
+			</object>
+			<object id="44">
+				<str id="class_tsid">learntime_cooking_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1337148236</int>
+			</object>
+			<object id="45">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">1200</int>
+				<int id="amount">20</int>
+				<int id="when">1337148241</int>
+			</object>
+			<object id="46">
+				<str id="class_tsid">meditative_arts_focus_2</str>
+				<int id="cost">3000</int>
+				<int id="amount">0</int>
+				<int id="when">1337215300</int>
+			</object>
+			<object id="47">
+				<str id="class_tsid">keepable_reshuffle</str>
+				<int id="cost">50</int>
+				<int id="amount">0</int>
+				<int id="when">1337215314</int>
+			</object>
+			<object id="48">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1000</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1337215327</int>
+			</object>
+			<object id="49">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">500</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337215338</int>
+			</object>
+			<object id="50">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">500</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337276150</int>
+			</object>
+			<object id="51">
+				<str id="class_tsid">mining_time_1</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1337299981</int>
+			</object>
+			<object id="52">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337302591</int>
+			</object>
+			<object id="53">
+				<str id="class_tsid">achievement_reward_bonus_3</str>
+				<int id="cost">750</int>
+				<int id="amount">0</int>
+				<int id="when">1337302601</int>
+			</object>
+			<object id="54">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1337302607</int>
+			</object>
+			<object id="55">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1337302616</int>
+			</object>
+			<object id="56">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">24</int>
+				<int id="amount">0</int>
+				<int id="when">1337321919</int>
+			</object>
+			<object id="57">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337321925</int>
+			</object>
+			<object id="58">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337390044</int>
+			</object>
+			<object id="59">
+				<str id="class_tsid">achievement_reward_bonus_4</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1337390053</int>
+			</object>
+			<object id="60">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">24</int>
+				<int id="amount">0</int>
+				<int id="when">1337390058</int>
+			</object>
+			<object id="61">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337390082</int>
+			</object>
+			<object id="62">
+				<str id="class_tsid">unlearning_ability</str>
+				<int id="cost">3000</int>
+				<int id="amount">0</int>
+				<int id="when">1337549594</int>
+			</object>
+			<object id="63">
+				<str id="class_tsid">quest_reward_bonus_3</str>
+				<int id="cost">600</int>
+				<int id="amount">0</int>
+				<int id="when">1337550836</int>
+			</object>
+			<object id="64">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337550841</int>
+			</object>
+			<object id="65">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1337977016</int>
+			</object>
+			<object id="66">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1337977051</int>
+			</object>
+			<object id="67">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1337977056</int>
+			</object>
+			<object id="68">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">1220</int>
+				<int id="amount">1</int>
+				<int id="when">1338314975</int>
+			</object>
+			<object id="69">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">4360</int>
+				<int id="amount">3</int>
+				<int id="when">1338359797</int>
+			</object>
+			<object id="70">
+				<str id="class_tsid">snapshottery_basic_filter_pack</str>
+				<int id="cost">300</int>
+				<int id="amount">0</int>
+				<int id="when">1338359816</int>
+			</object>
+			<object id="71">
+				<str id="class_tsid">snapshottery_filter_vintage</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338359821</int>
+			</object>
+			<object id="72">
+				<str id="class_tsid">snapshottery_filter_firefly</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338359828</int>
+			</object>
+			<object id="73">
+				<str id="class_tsid">mining_drop_1</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1338359837</int>
+			</object>
+			<object id="74">
+				<str id="class_tsid">snapshottery_filter_holga</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338400475</int>
+			</object>
+			<object id="75">
+				<str id="class_tsid">snapshottery_filter_ancient</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338400480</int>
+			</object>
+			<object id="76">
+				<str id="class_tsid">snapshottery_filter_outline</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338400484</int>
+			</object>
+			<object id="77">
+				<str id="class_tsid">snapshottery_filter_piggy</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338400488</int>
+			</object>
+			<object id="78">
+				<str id="class_tsid">smelting_drop</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1338412525</int>
+			</object>
+			<object id="79">
+				<str id="class_tsid">alchemy_2_imagination</str>
+				<int id="cost">600</int>
+				<int id="amount">0</int>
+				<int id="when">1338412535</int>
+			</object>
+			<object id="80">
+				<str id="class_tsid">snapshottery_filter_beryl</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338412541</int>
+			</object>
+			<object id="81">
+				<str id="class_tsid">daily_quoin_limit_1</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1338412548</int>
+			</object>
+			<object id="82">
+				<str id="class_tsid">snapshottery_filter_shift</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338412552</int>
+			</object>
+			<object id="83">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">200</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1338412556</int>
+			</object>
+			<object id="84">
+				<str id="class_tsid">snapshottery_filter_memphis</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338446497</int>
+			</object>
+			<object id="85">
+				<str id="class_tsid">snapshottery_filter_dither</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1338446502</int>
+			</object>
+			<object id="86">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">300</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1338535367</int>
+			</object>
+			<object id="87">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1338535376</int>
+			</object>
+			<object id="88">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1338535380</int>
+			</object>
+			<object id="89">
+				<str id="class_tsid">mining_expert_dullite</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1338568044</int>
+			</object>
+			<object id="90">
+				<str id="class_tsid">refining_drop_1</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1338568049</int>
+			</object>
+			<object id="91">
+				<str id="class_tsid">smelting_energy</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1338568056</int>
+			</object>
+			<object id="92">
+				<str id="class_tsid">mining_high_capacity_rock</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1338575519</int>
+			</object>
+			<object id="93">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1338579862</int>
+			</object>
+			<object id="94">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1338694473</int>
+			</object>
+			<object id="95">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">8493</int>
+				<int id="amount">3</int>
+				<int id="when">1338860306</int>
+			</object>
+			<object id="96">
+				<str id="class_tsid">sloth_bonus_snails</str>
+				<int id="cost">750</int>
+				<int id="amount">0</int>
+				<int id="when">1338860585</int>
+			</object>
+			<object id="97">
+				<str id="class_tsid">mining_drop_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1338861257</int>
+			</object>
+			<object id="98">
+				<str id="class_tsid">mining_expert_metal_rock</str>
+				<int id="cost">3000</int>
+				<int id="amount">0</int>
+				<int id="when">1338874369</int>
+			</object>
+			<object id="99">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1500</int>
+				<dbl id="amount">0.5</dbl>
+				<int id="when">1338874383</int>
+			</object>
+			<object id="100">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1338874390</int>
+			</object>
+			<object id="101">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1338874396</int>
+			</object>
+			<object id="102">
+				<str id="class_tsid">rube_chance_to_meet</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1338879762</int>
+			</object>
+			<object id="103">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">800</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1338879768</int>
+			</object>
+			<object id="104">
+				<str id="class_tsid">mining_time_2</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1338924625</int>
+			</object>
+			<object id="105">
+				<str id="class_tsid">rube_better_items</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1338940966</int>
+			</object>
+			<object id="106">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">2000</int>
+				<dbl id="amount">0.5</dbl>
+				<int id="when">1338942894</int>
+			</object>
+			<object id="107">
+				<str id="class_tsid">quest_reward_bonus_4</str>
+				<int id="cost">800</int>
+				<int id="amount">0</int>
+				<int id="when">1338942901</int>
+			</object>
+			<object id="108">
+				<str id="class_tsid">jellisac_hands_drop_1</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1339005261</int>
+			</object>
+			<object id="109">
+				<str id="class_tsid">mining_time_3</str>
+				<int id="cost">10000</int>
+				<int id="amount">0</int>
+				<int id="when">1339041969</int>
+			</object>
+			<object id="110">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">600</int>
+				<int id="amount">10</int>
+				<int id="when">1339042404</int>
+			</object>
+			<object id="111">
+				<str id="class_tsid">mining_expert_sparkly</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1339088799</int>
+			</object>
+			<object id="112">
+				<str id="class_tsid">quest_reward_bonus_5</str>
+				<int id="cost">1200</int>
+				<int id="amount">0</int>
+				<int id="when">1339089181</int>
+			</object>
+			<object id="113">
+				<str id="class_tsid">mining_drop_3</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1339129419</int>
+			</object>
+			<object id="114">
+				<str id="class_tsid">bogspecialization_dig_peat_drop</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1339177465</int>
+			</object>
+			<object id="115">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">800</int>
+				<int id="amount">10</int>
+				<int id="when">1339457762</int>
+			</object>
+			<object id="116">
+				<str id="class_tsid">metalmaking_imagination</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1339458637</int>
+			</object>
+			<object id="117">
+				<str id="class_tsid">fuelmaking_imagination</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1339459872</int>
+			</object>
+			<object id="118">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">800</int>
+				<int id="amount">10</int>
+				<int id="when">1339553900</int>
+			</object>
+			<object id="119">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">400</int>
+				<dbl id="amount">0.1</dbl>
+				<int id="when">1339553906</int>
+			</object>
+			<object id="120">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">31</int>
+				<int id="amount">0</int>
+				<int id="when">1339553912</int>
+			</object>
+			<object id="121">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">800</int>
+				<int id="amount">10</int>
+				<int id="when">1339554156</int>
+			</object>
+			<object id="122">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">800</int>
+				<int id="amount">10</int>
+				<int id="when">1339554437</int>
+			</object>
+			<object id="123">
+				<str id="class_tsid">soil_appreciation_dirt_pile_1</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1339554449</int>
+			</object>
+			<object id="124">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">4000</int>
+				<int id="amount">50</int>
+				<int id="when">1339556156</int>
+			</object>
+			<object id="125">
+				<str id="class_tsid">element_handling_bonus_1</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1339570412</int>
+			</object>
+			<object id="126">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">800</int>
+				<int id="amount">10</int>
+				<int id="when">1339572720</int>
+			</object>
+			<object id="127">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">23355</int>
+				<int id="amount">5</int>
+				<int id="when">1339706755</int>
+			</object>
+			<object id="128">
+				<str id="class_tsid">gardening_tree_super_harvest_1</str>
+				<int id="cost">200</int>
+				<int id="amount">0</int>
+				<int id="when">1339706767</int>
+			</object>
+			<object id="129">
+				<str id="class_tsid">bogspecialization_more_peat</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1339707475</int>
+			</object>
+			<object id="130">
+				<str id="class_tsid">engineering_reduce_time</str>
+				<int id="cost">100</int>
+				<int id="amount">0</int>
+				<int id="when">1339707483</int>
+			</object>
+			<object id="131">
+				<str id="class_tsid">gardening_tree_super_harvest_2</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1339707490</int>
+			</object>
+			<object id="132">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">800</int>
+				<int id="amount">10</int>
+				<int id="when">1339731665</int>
+			</object>
+			<object id="133">
+				<str id="class_tsid">meditative_arts_daily_limit_1</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1339733911</int>
+			</object>
+			<object id="134">
+				<str id="class_tsid">mining_drop_4</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1339733919</int>
+			</object>
+			<object id="135">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">1000</int>
+				<int id="amount">10</int>
+				<int id="when">1339734047</int>
+			</object>
+			<object id="136">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">11870</int>
+				<int id="amount">1</int>
+				<int id="when">1339793772</int>
+			</object>
+			<object id="137">
+				<str id="class_tsid">gassifying_imagination</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1339793779</int>
+			</object>
+			<object id="138">
+				<str id="class_tsid">meditative_arts_less_distraction</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1339793788</int>
+			</object>
+			<object id="139">
+				<str id="class_tsid">recipe_task_limit_machines_1</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1339796472</int>
+			</object>
+			<object id="140">
+				<str id="class_tsid">refining_time_1</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1339796482</int>
+			</object>
+			<object id="141">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1200</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1339796491</int>
+			</object>
+			<object id="142">
+				<str id="class_tsid">element_handling_bonus_2</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1339797118</int>
+			</object>
+			<object id="143">
+				<str id="class_tsid">metalmaking_music</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1339799355</int>
+			</object>
+			<object id="144">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">3000</int>
+				<dbl id="amount">0.5</dbl>
+				<int id="when">1339799360</int>
+			</object>
+			<object id="145">
+				<str id="class_tsid">daily_quoin_limit_2</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1339816920</int>
+			</object>
+			<object id="146">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1200</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1339816925</int>
+			</object>
+			<object id="147">
+				<str id="class_tsid">learntime_gardening_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1339816932</int>
+			</object>
+			<object id="148">
+				<str id="class_tsid">learntime_alchemy_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1339816936</int>
+			</object>
+			<object id="149">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1200</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1339816945</int>
+			</object>
+			<object id="150">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">1000</int>
+				<int id="amount">10</int>
+				<int id="when">1339819066</int>
+			</object>
+			<object id="151">
+				<str id="class_tsid">mining_expert_beryl</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1339819073</int>
+			</object>
+			<object id="152">
+				<str id="class_tsid">alchemy_1_imagination</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1339819080</int>
+			</object>
+			<object id="153">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">39900</int>
+				<int id="amount">3</int>
+				<int id="when">1339977037</int>
+			</object>
+			<object id="154">
+				<str id="class_tsid">gardening_harvest_wood</str>
+				<int id="cost">750</int>
+				<int id="amount">0</int>
+				<int id="when">1339977049</int>
+			</object>
+			<object id="155">
+				<str id="class_tsid">barnacle_scraping_speed_1</str>
+				<int id="cost">8000</int>
+				<int id="amount">0</int>
+				<int id="when">1339979078</int>
+			</object>
+			<object id="156">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">43</int>
+				<int id="amount">0</int>
+				<int id="when">1339979085</int>
+			</object>
+			<object id="157">
+				<str id="class_tsid">engineering_disassemble_machine</str>
+				<int id="cost">800</int>
+				<int id="amount">0</int>
+				<int id="when">1339979330</int>
+			</object>
+			<object id="158">
+				<str id="class_tsid">jellisac_hands_speed_1</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1339983534</int>
+			</object>
+			<object id="159">
+				<str id="class_tsid">learntime_animal_3</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1339983546</int>
+			</object>
+			<object id="160">
+				<str id="class_tsid">meditative_arts_max_relax</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1339985192</int>
+			</object>
+			<object id="161">
+				<str id="class_tsid">botany_imagination</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1339985864</int>
+			</object>
+			<object id="162">
+				<str id="class_tsid">learntime_harvesting_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1339985870</int>
+			</object>
+			<object id="163">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">2000</int>
+				<int id="amount">20</int>
+				<int id="when">1339986089</int>
+			</object>
+			<object id="164">
+				<str id="class_tsid">learntime_alchemy_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1339986098</int>
+			</object>
+			<object id="165">
+				<str id="class_tsid">ezcooking_tool_wear</str>
+				<int id="cost">125</int>
+				<int id="amount">0</int>
+				<int id="when">1339986118</int>
+			</object>
+			<object id="166">
+				<str id="class_tsid">hoeing_more_img_more_wear</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1340000400</int>
+			</object>
+			<object id="167">
+				<str id="class_tsid">daily_quoin_limit_3</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1340000407</int>
+			</object>
+			<object id="168">
+				<str id="class_tsid">keepable_reshuffle</str>
+				<int id="cost">150</int>
+				<int id="amount">0</int>
+				<int id="when">1340000412</int>
+			</object>
+			<object id="169">
+				<str id="class_tsid">engineering_assemble_machine</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1340000425</int>
+			</object>
+			<object id="170">
+				<str id="class_tsid">recipe_task_limit_machines_2</str>
+				<int id="cost">10000</int>
+				<int id="amount">0</int>
+				<int id="when">1340003089</int>
+			</object>
+			<object id="171">
+				<str id="class_tsid">brain_capacity</str>
+				<int id="cost">100035</int>
+				<int id="amount">5</int>
+				<int id="when">1340340639</int>
+			</object>
+			<object id="172">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">2000</int>
+				<int id="amount">20</int>
+				<int id="when">1340342238</int>
+			</object>
+			<object id="173">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">47</int>
+				<int id="amount">0</int>
+				<int id="when">1340342244</int>
+			</object>
+			<object id="174">
+				<str id="class_tsid">bog_specialization_dig_peat_bog_twice</str>
+				<int id="cost">10000</int>
+				<int id="amount">0</int>
+				<int id="when">1340398389</int>
+			</object>
+			<object id="175">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1340398397</int>
+			</object>
+			<object id="176">
+				<str id="class_tsid">intermediate_admixing_imagination_1</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1340402046</int>
+			</object>
+			<object id="177">
+				<str id="class_tsid">lightgreenthumb_water_drop_1</str>
+				<int id="cost">600</int>
+				<int id="amount">0</int>
+				<int id="when">1340402054</int>
+			</object>
+			<object id="178">
+				<str id="class_tsid">smelting_tool_wear</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1340402100</int>
+			</object>
+			<object id="179">
+				<str id="class_tsid">lightgreenthumb_water_drop_2</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1340432747</int>
+			</object>
+			<object id="180">
+				<str id="class_tsid">lightgreenthumb_pet_drop_1</str>
+				<int id="cost">600</int>
+				<int id="amount">0</int>
+				<int id="when">1340432754</int>
+			</object>
+			<object id="181">
+				<str id="class_tsid">refining_time_2</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1340435406</int>
+			</object>
+			<object id="182">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1340507198</int>
+			</object>
+			<object id="183">
+				<str id="class_tsid">lightgreenthumb_pet_drop_2</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1340507204</int>
+			</object>
+			<object id="184">
+				<str id="class_tsid">refining_drop_2</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1340507247</int>
+			</object>
+			<object id="185">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">2000</int>
+				<int id="amount">20</int>
+				<int id="when">1340512126</int>
+			</object>
+			<object id="186">
+				<str id="class_tsid">meditative_arts_imagination</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1340512134</int>
+			</object>
+			<object id="187">
+				<str id="class_tsid">intermediate_admixing_imagination_2</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1340515093</int>
+			</object>
+			<object id="188">
+				<str id="class_tsid">animal_kinship_super_harvest_1</str>
+				<int id="cost">200</int>
+				<int id="amount">0</int>
+				<int id="when">1340517389</int>
+			</object>
+			<object id="189">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">2000</int>
+				<int id="amount">20</int>
+				<int id="when">1340589904</int>
+			</object>
+			<object id="190">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">6000</int>
+				<int id="amount">50</int>
+				<int id="when">1340644162</int>
+			</object>
+			<object id="191">
+				<str id="class_tsid">achievement_reward_bonus_5</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1340644170</int>
+			</object>
+			<object id="192">
+				<str id="class_tsid">meditative_arts_daily_limit_2</str>
+				<int id="cost">6000</int>
+				<int id="amount">0</int>
+				<int id="when">1340644178</int>
+			</object>
+			<object id="193">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">4000</int>
+				<dbl id="amount">0.5</dbl>
+				<int id="when">1340674909</int>
+			</object>
+			<object id="194">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">1600</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1340674914</int>
+			</object>
+			<object id="195">
+				<str id="class_tsid">learntime_gardening_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1340674934</int>
+			</object>
+			<object id="196">
+				<str id="class_tsid">learntime_wellness_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1340674939</int>
+			</object>
+			<object id="197">
+				<str id="class_tsid">learntime_harvesting_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1340674943</int>
+			</object>
+			<object id="198">
+				<str id="class_tsid">animal_husbandry_twin_animals_1</str>
+				<int id="cost">600</int>
+				<int id="amount">0</int>
+				<int id="when">1340674949</int>
+			</object>
+			<object id="199">
+				<str id="class_tsid">gardening_tree_super_harvest_3</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1340674955</int>
+			</object>
+			<object id="200">
+				<str id="class_tsid">gardening_harvest_gas</str>
+				<int id="cost">1200</int>
+				<int id="amount">0</int>
+				<int id="when">1340674962</int>
+			</object>
+			<object id="201">
+				<str id="class_tsid">animal_kinship_super_harvest_2</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1340688616</int>
+			</object>
+			<object id="202">
+				<str id="class_tsid">fiber_arts_bonus_1</str>
+				<int id="cost">2500</int>
+				<int id="amount">0</int>
+				<int id="when">1341007537</int>
+			</object>
+			<object id="203">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">2400</int>
+				<int id="amount">20</int>
+				<int id="when">1341039673</int>
+			</object>
+			<object id="204">
+				<str id="class_tsid">gardening_harvest_egg</str>
+				<int id="cost">1200</int>
+				<int id="amount">0</int>
+				<int id="when">1341039680</int>
+			</object>
+			<object id="205">
+				<str id="class_tsid">animal_husbandry_twin_animals_2</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1341039685</int>
+			</object>
+			<object id="206">
+				<str id="class_tsid">fox_brushing_bonus</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1341039690</int>
+			</object>
+			<object id="207">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">12000</int>
+				<int id="amount">100</int>
+				<int id="when">1341040492</int>
+			</object>
+			<object id="208">
+				<str id="class_tsid">learntime_industrial_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1341040746</int>
+			</object>
+			<object id="209">
+				<str id="class_tsid">distilling_grain</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1341041318</int>
+			</object>
+			<object id="210">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">6000</int>
+				<int id="amount">50</int>
+				<int id="when">1342547776</int>
+			</object>
+			<object id="211">
+				<str id="class_tsid">trade_channel</str>
+				<int id="cost">200</int>
+				<int id="amount">0</int>
+				<int id="when">1342547782</int>
+			</object>
+			<object id="212">
+				<str id="class_tsid">food_variety_bonus</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1342547800</int>
+			</object>
+			<object id="213">
+				<str id="class_tsid">gardening_harvest_bubble</str>
+				<int id="cost">800</int>
+				<int id="amount">0</int>
+				<int id="when">1342547810</int>
+			</object>
+			<object id="214">
+				<str id="class_tsid">gardening_harvest_bean</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1342547816</int>
+			</object>
+			<object id="215">
+				<str id="class_tsid">blockmaking_save_fuel_1</str>
+				<int id="cost">750</int>
+				<int id="amount">0</int>
+				<int id="when">1342547823</int>
+			</object>
+			<object id="216">
+				<str id="class_tsid">gardening_harvest_spice</str>
+				<int id="cost">800</int>
+				<int id="amount">0</int>
+				<int id="when">1342732200</int>
+			</object>
+			<object id="217">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">1200</int>
+				<int id="amount">10</int>
+				<int id="when">1342732972</int>
+			</object>
+			<object id="218">
+				<str id="class_tsid">distilling_corn</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1342732979</int>
+			</object>
+			<object id="219">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">6000</int>
+				<int id="amount">50</int>
+				<int id="when">1343185940</int>
+			</object>
+			<object id="220">
+				<str id="class_tsid">ticket_to_paradise_starlit_night</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1343186431</int>
+			</object>
+			<object id="221">
+				<str id="class_tsid">ticket_to_paradise_radial_heights</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1343186437</int>
+			</object>
+			<object id="222">
+				<str id="class_tsid">toolcrafting_imagination_1</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1343186443</int>
+			</object>
+			<object id="223">
+				<str id="class_tsid">soil_appreciation_dirt_pile_2</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1343242732</int>
+			</object>
+			<object id="224">
+				<str id="class_tsid">grilling_tool_wear</str>
+				<int id="cost">435</int>
+				<int id="amount">0</int>
+				<int id="when">1343243876</int>
+			</object>
+			<object id="225">
+				<str id="class_tsid">ticket_to_paradise_arbor_hollow</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1343243882</int>
+			</object>
+			<object id="226">
+				<str id="class_tsid">blending_imagination</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1343243888</int>
+			</object>
+			<object id="227">
+				<str id="class_tsid">recipe_task_limit_transmog_1</str>
+				<int id="cost">3000</int>
+				<int id="amount">0</int>
+				<int id="when">1343243896</int>
+			</object>
+			<object id="228">
+				<str id="class_tsid">distilling_potato</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1343265365</int>
+			</object>
+			<object id="229">
+				<str id="class_tsid">ticket_to_paradise_arbor_hollow</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1343265370</int>
+			</object>
+			<object id="230">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">2000</int>
+				<dbl id="amount">0.2</dbl>
+				<int id="when">1343265381</int>
+			</object>
+			<object id="231">
+				<str id="class_tsid">blending_tool_wear</str>
+				<int id="cost">250</int>
+				<int id="amount">0</int>
+				<int id="when">1343265386</int>
+			</object>
+			<object id="232">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">1400</int>
+				<int id="amount">10</int>
+				<int id="when">1345854657</int>
+			</object>
+			<object id="233">
+				<str id="class_tsid">barnacle_scraping_drop_1</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1345854662</int>
+			</object>
+			<object id="234">
+				<str id="class_tsid">learntime_cooking_3</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1345854667</int>
+			</object>
+			<object id="235">
+				<str id="class_tsid">vendors_lower_sell_price_1</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1345854672</int>
+			</object>
+			<object id="236">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">2500</int>
+				<dbl id="amount">0.25</dbl>
+				<int id="when">1345854677</int>
+			</object>
+			<object id="237">
+				<str id="class_tsid">ticket_to_paradise_beam_me_down</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1345854681</int>
+			</object>
+			<object id="238">
+				<str id="class_tsid">ticket_to_paradise_slip_n_slide</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1345854685</int>
+			</object>
+			<object id="239">
+				<str id="class_tsid">recipe_task_limit_food_1</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1345854692</int>
+			</object>
+			<object id="240">
+				<str id="class_tsid">croppery_time_1</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1345854697</int>
+			</object>
+			<object id="241">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">2500</int>
+				<dbl id="amount">0.25</dbl>
+				<int id="when">1345854701</int>
+			</object>
+			<object id="242">
+				<str id="class_tsid">energy_tank</str>
+				<int id="cost">14000</int>
+				<int id="amount">100</int>
+				<int id="when">1345854713</int>
+			</object>
+			<object id="243">
+				<str id="class_tsid">cheffery_tool_wear</str>
+				<int id="cost">250</int>
+				<int id="amount">0</int>
+				<int id="when">1345854720</int>
+			</object>
+			<object id="244">
+				<str id="class_tsid">ticket_to_paradise_radial_heights</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1345854724</int>
+			</object>
+			<object id="245">
+				<str id="class_tsid">fiber_arts_bonus_2</str>
+				<int id="cost">3500</int>
+				<int id="amount">0</int>
+				<int id="when">1345854731</int>
+			</object>
+			<object id="246">
+				<str id="class_tsid">ticket_to_paradise_sky_plunge</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1345854744</int>
+			</object>
+			<object id="247">
+				<str id="class_tsid">fruitchanging_imagination</str>
+				<int id="cost">250</int>
+				<int id="amount">0</int>
+				<int id="when">1345854751</int>
+			</object>
+			<object id="248">
+				<str id="class_tsid">keepable_instant_resurrection</str>
+				<int id="cost">90</int>
+				<int id="amount">0</int>
+				<int id="when">1345854755</int>
+			</object>
+			<object id="249">
+				<str id="class_tsid">croppery_time_2</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1345855251</int>
+			</object>
+			<object id="250">
+				<str id="class_tsid">ticket_to_paradise_cloud_rings</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1345855255</int>
+			</object>
+			<object id="251">
+				<str id="class_tsid">ticket_to_paradise_slip_n_slide</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1345855259</int>
+			</object>
+			<object id="252">
+				<str id="class_tsid">saucery_imagination</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1346101387</int>
+			</object>
+			<object id="253">
+				<str id="class_tsid">vendors_lower_sell_price_2</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1346101396</int>
+			</object>
+			<object id="254">
+				<str id="class_tsid">ticket_to_paradise_mountain_scaling</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1346956346</int>
+			</object>
+			<object id="255">
+				<str id="class_tsid">herbalism_time_1</str>
+				<int id="cost">2000</int>
+				<int id="amount">0</int>
+				<int id="when">1346957335</int>
+			</object>
+			<object id="256">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">2500</int>
+				<dbl id="amount">0.25</dbl>
+				<int id="when">1346957339</int>
+			</object>
+			<object id="257">
+				<str id="class_tsid">herdkeeping_animal_sadness_1</str>
+				<int id="cost">3000</int>
+				<int id="amount">0</int>
+				<int id="when">1346957344</int>
+			</object>
+			<object id="258">
+				<str id="class_tsid">cheffery_imagination</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1346957348</int>
+			</object>
+			<object id="259">
+				<str id="class_tsid">grilling_less_imagination</str>
+				<int id="cost">800</int>
+				<int id="amount">0</int>
+				<int id="when">1346957351</int>
+			</object>
+			<object id="260">
+				<str id="class_tsid">recipe_task_limit_drink_1</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1346957356</int>
+			</object>
+			<object id="261">
+				<str id="class_tsid">learntime_alchemy_3</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1346957360</int>
+			</object>
+			<object id="262">
+				<str id="class_tsid">learntime_gardening_3</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1346957364</int>
+			</object>
+			<object id="263">
+				<str id="class_tsid">learntime_cooking_4</str>
+				<int id="cost">10000</int>
+				<int id="amount">0</int>
+				<int id="when">1346957386</int>
+			</object>
+			<object id="264">
+				<str id="class_tsid">learntime_industrial_2</str>
+				<int id="cost">1250</int>
+				<int id="amount">0</int>
+				<int id="when">1346957397</int>
+			</object>
+			<object id="265">
+				<str id="class_tsid">cocktail_crafting_tool_wear</str>
+				<int id="cost">375</int>
+				<int id="amount">0</int>
+				<int id="when">1346957403</int>
+			</object>
+			<object id="266">
+				<str id="class_tsid">animal_kinship_super_harvest_3</str>
+				<int id="cost">750</int>
+				<int id="amount">0</int>
+				<int id="when">1346957406</int>
+			</object>
+			<object id="267">
+				<str id="class_tsid">toolcrafting_bonus_tool</str>
+				<int id="cost">5000</int>
+				<int id="amount">0</int>
+				<int id="when">1346968259</int>
+			</object>
+			<object id="268">
+				<str id="class_tsid">croppery_growing_drop_1</str>
+				<int id="cost">600</int>
+				<int id="amount">0</int>
+				<int id="when">1346968263</int>
+			</object>
+			<object id="269">
+				<str id="class_tsid">tincturing_imagination</str>
+				<int id="cost">1200</int>
+				<int id="amount">0</int>
+				<int id="when">1347301471</int>
+			</object>
+			<object id="270">
+				<str id="class_tsid">potionmaking_imagination</str>
+				<int id="cost">1500</int>
+				<int id="amount">0</int>
+				<int id="when">1347301476</int>
+			</object>
+			<object id="271">
+				<str id="class_tsid">ticket_to_paradise_radial_heights</str>
+				<int id="cost">25</int>
+				<int id="amount">0</int>
+				<int id="when">1347301480</int>
+			</object>
+			<object id="272">
+				<str id="class_tsid">croppery_super_harvest_1</str>
+				<int id="cost">400</int>
+				<int id="amount">0</int>
+				<int id="when">1347301485</int>
+			</object>
+			<object id="273">
+				<str id="class_tsid">master_chef_imagination</str>
+				<int id="cost">1200</int>
+				<int id="amount">0</int>
+				<int id="when">1347301491</int>
+			</object>
+			<object id="274">
+				<str id="class_tsid">master_chef_tool_wear</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1347301494</int>
+			</object>
+			<object id="275">
+				<str id="class_tsid">icon_tithe_1</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1347301501</int>
+			</object>
+			<object id="276">
+				<str id="class_tsid">saucery_tool_wear</str>
+				<int id="cost">330</int>
+				<int id="amount">0</int>
+				<int id="when">1347301505</int>
+			</object>
+			<object id="277">
+				<str id="class_tsid">cocktail_crafting_imagination</str>
+				<int id="cost">800</int>
+				<int id="amount">0</int>
+				<int id="when">1347301562</int>
+			</object>
+			<object id="278">
+				<str id="class_tsid">remoteherdkeeping_production_1</str>
+				<int id="cost">4000</int>
+				<int id="amount">0</int>
+				<int id="when">1347301566</int>
+			</object>
+			<object id="279">
+				<str id="class_tsid">herbalism_shucking_1</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1347301576</int>
+			</object>
+			<object id="280">
+				<str id="class_tsid">snapshottery_filter_pack_1</str>
+				<int id="cost">0</int>
+				<undefined id="amount"/>
+				<int id="when">1348093878</int>
+			</object>
+			<object id="281">
+				<str id="class_tsid">snapshottery_filter_pack_2</str>
+				<int id="cost">0</int>
+				<undefined id="amount"/>
+				<int id="when">1348093878</int>
+			</object>
+			<object id="282">
+				<str id="class_tsid">snapshottery_filter_pack_3</str>
+				<int id="cost">0</int>
+				<undefined id="amount"/>
+				<int id="when">1348093878</int>
+			</object>
+			<object id="283">
+				<str id="class_tsid">quoin_multiplier</str>
+				<int id="cost">6000</int>
+				<dbl id="amount">0.5</dbl>
+				<int id="when">1348263917</int>
+			</object>
+			<object id="284">
+				<str id="class_tsid">gardening_harvest_fruit</str>
+				<int id="cost">500</int>
+				<int id="amount">0</int>
+				<int id="when">1348263922</int>
+			</object>
+			<object id="285">
+				<str id="class_tsid">icon_tithe_2</str>
+				<int id="cost">3000</int>
+				<int id="amount">0</int>
+				<int id="when">1348263929</int>
+			</object>
+			<object id="286">
+				<str id="class_tsid">focused_meditation_imagination</str>
+				<int id="cost">1000</int>
+				<int id="amount">0</int>
+				<int id="when">1348263948</int>
+			</object>
+		</array>
+		<int id="xp_at_conversion">0</int>
+		<int id="level_at_conversion">1</int>
+		<int id="img_after_conversion">0</int>
+		<int id="img_at_conversion">0</int>
+		<int id="converted_at">1336704967</int>
+	</object>
+</game_object>

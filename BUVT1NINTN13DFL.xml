@@ -1,0 +1,27 @@
+<game_object tsid="BUVT1NINTN13DFL" ts="1355112616231" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+	</object>
+	<int id="x">2</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IIF1ELUTQ523TLM" label="Random Kindness"/>
+		<objref tsid="IA5522A7D423FBN" label="Random Kindness"/>
+		<objref tsid="IA55N1KML423CEA" label="Random Kindness"/>
+		<objref tsid="IA5HNKB7R523BNB" label="Random Kindness"/>
+		<objref tsid="IA94QBRJ1L033VS" label="Random Kindness"/>
+		<objref tsid="IA94QLUJ1L0302J" label="Random Kindness"/>
+		<objref tsid="IHFQ5P62NV83V96" label="Corny Fritter"/>
+		<objref tsid="IHVE2HHMS623DGR" label="Random Kindness"/>
+		<objref tsid="INVBL93UPTV27BN" label="Random Kindness"/>
+		<objref tsid="INVP75EOU513U74" label="Random Kindness"/>
+		<objref tsid="INVBENEP3113V6E" label="Random Kindness"/>
+		<objref tsid="IHVI0HBI05238IO" label="Random Kindness"/>
+		<objref tsid="IIFKHVM9EA23GQT" label="Random Kindness"/>
+		<objref tsid="INVO1BIH4RV2JOS" label="Random Kindness"/>
+		<objref tsid="INVQQ6ERG413ILQ" label="Random Kindness"/>
+		<objref tsid="IDOSLKGD2503BET" label="Random Kindness"/>
+	</objrefs>
+</game_object>

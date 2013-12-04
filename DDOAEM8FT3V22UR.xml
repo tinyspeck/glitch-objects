@@ -1,0 +1,6 @@
+<game_object tsid="DDOAEM8FT3V22UR" ts="1355106711211" label="Organizations" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 18:31:43.000">
+	<object id="dynamic">
+		<object id="organizations">
+		</object>
+	</object>
+</game_object>

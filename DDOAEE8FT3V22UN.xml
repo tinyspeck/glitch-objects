@@ -1,0 +1,15 @@
+<game_object tsid="DDOAEE8FT3V22UN" ts="1357628179470" label="Buddies" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2013-01-07 22:56:09.000" upd_time="2013-01-07 22:44:43.894">
+	<object id="dynamic">
+		<object id="pcs">
+			<objref id="PIF5UKTP9PULH" tsid="PIF5UKTP9PULH" label="Reeba"/>
+			<objref id="PCR11BHHPVN1AIQ" tsid="PCR11BHHPVN1AIQ" label="Lisa"/>
+			<objref id="PHF9GL57H2D2A7P" tsid="PHF9GL57H2D2A7P" label="Niks"/>
+			<objref id="PUVBSJMQP5D2TC8" tsid="PUVBSJMQP5D2TC8" label="Rosty"/>
+			<objref id="PHVOB27OFM52R2J" tsid="PHVOB27OFM52R2J" label="zebedy"/>
+			<objref id="PHFNCFTVB4D2DNN" tsid="PHFNCFTVB4D2DNN" label="Chester Todd"/>
+			<objref id="PUVF5A16V5D2E0D" tsid="PUVF5A16V5D2E0D" label="LųĉĩđεşşΨ"/>
+			<objref id="PDOCT41944V2NAR" tsid="PDOCT41944V2NAR" label="Slothknocker"/>
+			<objref id="PIF1C9TQRCDGD" tsid="PIF1C9TQRCDGD" label="faitaru"/>
+		</object>
+	</object>
+</game_object>

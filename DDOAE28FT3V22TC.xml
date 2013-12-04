@@ -1,0 +1,6 @@
+<game_object tsid="DDOAE28FT3V22TC" ts="1340588047868" label="Misc" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs12" load_time="2012-06-24 18:34:07.867">
+	<object id="dynamic">
+		<object id="quests">
+		</object>
+	</object>
+</game_object>

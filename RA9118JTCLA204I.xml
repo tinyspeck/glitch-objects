@@ -1,0 +1,6 @@
+<game_object tsid="RA9118JTCLA204I" ts="1362758733410" label="Global Chat" class_tsid="group" upd_gs="gs6" load_time="2013-03-08 07:42:03.000" upd_time="2013-03-08 07:12:52.459">
+	<object id="dynamic">
+		<object id="chat_roster">
+		</object>
+	</object>
+</game_object>

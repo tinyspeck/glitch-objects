@@ -1,0 +1,21 @@
+<game_object tsid="BUVT22LNTN13P75" ts="1355112616237" label="Bigger Green Bag" class_tsid="bag_bigger_green" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Blocks DG DR Special</str>
+	</object>
+	<int id="x">7</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IA58UN8ILH23OU9" label="Musicblock DG-2"/>
+		<objref tsid="IIF57T00AS23K8N" label="Musicblock DG-5"/>
+		<objref tsid="IA9B07M7SO135ID" label="Musicblock DR-4"/>
+		<objref tsid="IUVPBJG10I23I4F" label="Musicblock DG-3"/>
+		<objref tsid="IHFQ56OMUH73U2M" label="Musicblock DR-3"/>
+		<objref tsid="IA5EQLV93J23SFN" label="Musicblock DR-2"/>
+		<objref tsid="IA9B8TTN9P13493" label="Musicblock DR-1"/>
+		<objref tsid="IHFAAD517U13HQA" label="Musicblock DG-4"/>
+		<objref tsid="IUVGCSRGI61361M" label="Musicblock DR-5"/>
+	</objrefs>
+</game_object>

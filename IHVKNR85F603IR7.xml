@@ -1,0 +1,12 @@
+<game_object tsid="IHVKNR85F603IR7" ts="1355112616233" label="Random Kindness" class_tsid="random_kindness" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" pcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<object id="instanceProps">
+			<int id="points_remaining">6</int>
+			<str id="is_broken">0</str>
+		</object>
+		<str id="state">iconic</str>
+	</object>
+	<int id="x">11</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+</game_object>

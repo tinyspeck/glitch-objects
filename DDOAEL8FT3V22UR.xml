@@ -1,0 +1,7 @@
+<game_object tsid="DDOAEL8FT3V22UR" ts="1355106711208" label="Groups" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 18:29:35.000">
+	<object id="dynamic">
+		<object id="groups">
+			<objref id="RHVP8CB5LHP2U8O" tsid="RHVP8CB5LHP2U8O" label="Housing Resource Routes"/>
+		</object>
+	</object>
+</game_object>

@@ -1,0 +1,10 @@
+<game_object tsid="DDOAE98FT3V22U6" ts="1355112616213" label="Daily History" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:02.000">
+	<object id="dynamic">
+		<object id="days">
+			<object id="26-04-01">
+				<int id="energy_consumed">7</int>
+			</object>
+		</object>
+		<int id="utime">1355099083</int>
+	</object>
+</game_object>

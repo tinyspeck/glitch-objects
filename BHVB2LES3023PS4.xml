@@ -1,0 +1,22 @@
+<game_object tsid="BHVB2LES3023PS4" ts="1355112616274" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+	</object>
+	<int id="x">5</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IUV6TVMUTA23FC7" label="Emblem of Mab"/>
+		<objref tsid="IIF2078J6U1354T" label="Emblem of Cosma"/>
+		<objref tsid="IIFPBQ2R4U13602" label="Emblem of Pot"/>
+		<objref tsid="IA9P0IMNUN13H33" label="Emblem of Lem"/>
+		<objref tsid="IUVI1L8GQV133MI" label="Emblem of Alph"/>
+		<objref tsid="IIFVI6J5513358L" label="Emblem of Friendly"/>
+		<objref tsid="IIFLMNT5UC239CT" label="Emblem of Grendaline"/>
+		<objref tsid="IIF3N3QT6U13C5G" label="Emblem of Humbaba"/>
+		<objref tsid="IIFP0B8O4U13FDM" label="Emblem of Spriggan"/>
+		<objref tsid="IUVJ3V9PQV13NAJ" label="Emblem of Tii"/>
+		<objref tsid="IUVSPB7H36136E3" label="Emblem of Zille"/>
+	</objrefs>
+</game_object>

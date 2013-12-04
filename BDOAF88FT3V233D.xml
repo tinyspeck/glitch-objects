@@ -1,0 +1,18 @@
+<game_object tsid="BDOAF88FT3V233D" ts="1355112616280" label="Private Trophy Storage" class_tsid="bag_private" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<bool id="is_trophycontainer">true</bool>
+	</object>
+	<int id="x">-888888888</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="INV57KH6P653P09" label="DB Music Trophy"/>
+		<objref tsid="IIF1RGHQVH432S7" label="XS Music Trophy"/>
+		<objref tsid="IHF5BINSQV13STU" label="Emblem Trophy"/>
+		<objref tsid="IHFM6I42M323500" label="Bubble Trophy"/>
+		<objref tsid="IHFQ58OMUH73U7M" label="DR Music Trophy"/>
+		<objref tsid="IA5ISQNQL3233E0" label="Spice Trophy"/>
+		<objref tsid="IHFJPFTDL3235VQ" label="Gas Trophy"/>
+		<objref tsid="IUV67783N2235OU" label="Gem Trophy"/>
+	</objrefs>
+</game_object>

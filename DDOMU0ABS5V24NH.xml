@@ -1,0 +1,5 @@
+<game_object tsid="DDOMU0ABS5V24NH" ts="1355112616227" label="Rewards" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:02.000">
+	<object id="dynamic">
+		<str id="storage_tsid">BDOMU1ABS5V24NP</str>
+	</object>
+</game_object>

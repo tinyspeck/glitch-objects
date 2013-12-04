@@ -1,0 +1,13 @@
+<game_object tsid="RA5DT5I72543L5R" ts="1358196506522" label="Trade Channel" class_tsid="group" upd_gs="gs6" load_time="2013-01-14 12:47:09.000" upd_time="2013-01-14 12:32:18.209">
+	<object id="dynamic">
+		<int id="is_group">1</int>
+		<object id="chat_roster">
+			<objref id="PUV33VUSAFE2K1L" tsid="PUV33VUSAFE2K1L" label="mehorse3"/>
+		</object>
+		<int id="created">1343696173</int>
+		<object id="invites">
+		</object>
+		<object id="applied">
+		</object>
+	</object>
+</game_object>

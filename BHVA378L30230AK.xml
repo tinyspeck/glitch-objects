@@ -1,0 +1,28 @@
+<game_object tsid="BHVA378L30230AK" ts="1355112616232" label="Bigger Pink Bag" class_tsid="bag_bigger_pink" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Tools with wear</str>
+	</object>
+	<int id="x">15</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IDO9DALQPQV2O9L" label="Alchemical Tongs"/>
+		<objref tsid="IHVCAV3LJ913GKK" label="Scraper"/>
+		<objref tsid="IDODDJ6QVDV2GKK" label="Knife &amp; Board"/>
+		<objref tsid="IIFA90NS2533V8A" label="Crystalmalizing Chamber"/>
+		<objref tsid="IDOM6VVLNEV2A99" label="Watering Can"/>
+		<objref tsid="IDOG2LF80EV2LN4" label="Fancy Pick"/>
+		<objref tsid="IDO4HGLIFD13FP2" label="Ace of Spades"/>
+		<objref tsid="IDOKG0MO2JV25T3" label="Frying Pan"/>
+		<objref tsid="IDOCP372AOV2KAK" label="Smelter"/>
+		<objref tsid="IIFAKRGHBS23JVL" label="High-Class Hoe"/>
+		<objref tsid="IHFC69J92A2339S" label="Grand Ol&apos; Grinder"/>
+		<objref tsid="IDOLM5PT2HV20AE" label="Hatchet"/>
+		<objref tsid="IA5GRCTOUKV2O3J" label="Construction Tool"/>
+		<objref tsid="IUVCVS0JAT13ILA" label="Hoe"/>
+		<objref tsid="INVOJK17OL13HO8" label="Quill"/>
+		<objref tsid="IDOBDUI4VLV2KBI" label="Tinkertool"/>
+	</objrefs>
+</game_object>

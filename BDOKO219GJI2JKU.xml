@@ -1,0 +1,18 @@
+<game_object tsid="BDOKO219GJI2JKU" ts="1355112616272" label="Alchemistry Kit" class_tsid="bag_alchemistry_kit" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" pcont="LIFNH08K9OU1SAB" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<bool id="is_limited">true</bool>
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+	</object>
+	<int id="x">9</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IHF2F1I4HJI2TRL" label="Diabolic Acid"/>
+		<objref tsid="IHF285P2HJI29NE" label="Spriggase"/>
+		<objref tsid="IHF2NPF7HJI2M5M" label="Friendly Acid"/>
+		<objref tsid="IHF2HVJ5HJI24NF" label="Alphose"/>
+		<objref tsid="IHF2F0I4HJI2TPK" label="Abbasidose"/>
+		<objref tsid="IHF2KCB6HJI2I29" label="Cosmox"/>
+	</objrefs>
+</game_object>

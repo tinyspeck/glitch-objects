@@ -1,0 +1,208 @@
+<game_object tsid="BHFOF9AMNL13SL0" ts="1355099748448" label="Butler" class_tsid="bag_butler" count="1" container="LHVJUAJQUDV2L4I" tcont="LHVJUAJQUDV2L4I" upd_gs="gs7" load_time="2012-12-09 16:13:30.000" upd_time="2012-12-09 16:27:28.200">
+	<object id="dynamic">
+		<object id="instanceProps">
+			<str id="ai_debug">0</str>
+			<str id="variant">mailboxLeft</str>
+			<str id="owner_tsid">PDOADP8FT3V22TI</str>
+			<str id="accessory">1</str>
+			<str id="bod">body7</str>
+			<str id="skull">skull8</str>
+			<str id="face">face2</str>
+			<str id="closeArm">6</str>
+			<str id="farArm">6</str>
+			<str id="closeLeg">5</str>
+			<str id="farLeg">4</str>
+			<int id="min_look_time">9000</int>
+		</object>
+		<object id="hitBox">
+			<int id="w">200</int>
+			<int id="h">200</int>
+		</object>
+		<bool id="is_nameable">true</bool>
+		<bool id="npc_can_walk">true</bool>
+		<bool id="npc_can_climb">true</bool>
+		<bool id="npc_can_jump">true</bool>
+		<bool id="npc_can_fall">true</bool>
+		<int id="npc_walk_speed">75</int>
+		<int id="npc_climb_speed">25</int>
+		<int id="npc_jump_height">10</int>
+		<str id="dir">right</str>
+		<array id="last_owner_visit">
+			<int id="0">26</int>
+			<int id="1">3</int>
+			<int id="2">53</int>
+			<int id="3">21</int>
+			<int id="4">33</int>
+		</array>
+		<int id="is_pack">0</int>
+		<int id="capacity">6</int>
+		<object id="hitBoxes">
+			<object id="at">
+				<int id="w">50</int>
+				<int id="h">300</int>
+			</object>
+			<object id="near">
+				<int id="w">250</int>
+				<int id="h">300</int>
+			</object>
+			<object id="far">
+				<int id="w">550</int>
+				<int id="h">300</int>
+			</object>
+		</object>
+		<str id="state">idle0</str>
+		<object id="config">
+			<str id="accessory">8</str>
+			<str id="bod">body4</str>
+			<str id="skull">skull4</str>
+			<str id="face">face7</str>
+			<str id="closeLeg">5</str>
+			<str id="farLeg">4</str>
+			<str id="closeArm">7</str>
+			<str id="farArm">2</str>
+		</object>
+		<dbl id="last_command_time">1.355099145466E12</dbl>
+		<int id="timer">10165</int>
+		<int id="convo_step">0</int>
+		<undefined id="current_state"/>
+		<array id="state_stack">
+		</array>
+		<object id="waitingFor">
+		</object>
+		<int id="isWaiting">0</int>
+		<str id="visitors_output">Since the last time you asked me, the following people have visited your street: &lt;a href=&quot;event:player_info|PUV9VNS5SOS22Q9&quot;&gt;Payday&lt;/a&gt;, &lt;a href=&quot;event:player_info|PHFBMADAEAD2JND&quot;&gt;Awesomasaurus&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVT6UV8F9G2A6N&quot;&gt;Boniferous&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVJFL92V8H27T1&quot;&gt;Aurora Dellaterra&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUV4FMHDP483N24&quot;&gt;Snails&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVQTI695JJ2NLC&quot;&gt;nonferrous infusion&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUV61QE3GE838QP&quot;&gt;Mercy Thompson&lt;/a&gt;, &lt;a href=&quot;event:player_info|PIF7USD6RM53NUD&quot;&gt;Sarahtonin&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVMJ9J30CH2NO4&quot;&gt;railroadbaron&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVDD9KMVDN2E88&quot;&gt;Daisy Muffet&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVJ8B0F9Q7361D&quot;&gt;Honeybrie&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVRO6CA60I2RT3&quot;&gt;Endy Chavez&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVOJ8VCPKE2MOC&quot;&gt;Sequoia Baer&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVP1E4KHHE23QP&quot;&gt;Snorriruff&lt;/a&gt;, &lt;a href=&quot;event:player_info|PIFE29C34463OD4&quot;&gt;awesome6316&lt;/a&gt;, &lt;a href=&quot;event:player_info|PIFF7EKN1N53LHF&quot;&gt;Josephine Gibken&lt;/a&gt;, &lt;a href=&quot;event:player_info|PA9856NM2KD20N0&quot;&gt;Seamus Zelazny&lt;/a&gt;, &lt;a href=&quot;event:player_info|PIFQ02JTJP536F9&quot;&gt;Schivnorr&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVESVJ9T3A3ROL&quot;&gt;Miki Takahashi&lt;/a&gt; and &lt;a href=&quot;event:player_info|PHV6J8E84FC2QPG&quot;&gt;Fahara&lt;/a&gt;. I think there were more, but that's all I can remember.</str>
+		<int id="visitors_num">88</int>
+		<str id="user_name">Abejas</str>
+		<str id="pc_namer">PDOADP8FT3V22TI</str>
+		<int id="named_on">1339450434</int>
+		<objref id="visitors" tsid="DHFPCKOUNL137NU"/>
+		<array id="greet_queue">
+		</array>
+		<dbl id="last_who_visited_time">1.346955432149E12</dbl>
+		<int id="interact_time">1355098740</int>
+		<objref id="packages" tsid="DHFGVDS5R023B1T"/>
+		<str id="interact_box">package_message</str>
+		<objref id="messages" tsid="DHFH0SF6R023DKU"/>
+		<int id="target_loc">660</int>
+		<object id="pc_states">
+			<str id="PDOADP8FT3V22TI">interact</str>
+		</object>
+		<dbl id="notification_time">1.346966656032E12</dbl>
+		<str id="im_visitors">Since the last time you asked me, the following people have visited your street: &lt;a href=&quot;event:player_info|PLI16FSFK2I91&quot;&gt;stoot barfield&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVRHQRNH5D2LJR&quot;&gt;fifth element&lt;/a&gt;, &lt;a href=&quot;event:player_info|PHVRIAMEBCB292S&quot;&gt;girlthulhu&lt;/a&gt;, &lt;a href=&quot;event:player_info|PA9MQ5QSGJD2VP4&quot;&gt;Gelderlin&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVND644NMF2MG7&quot;&gt;Sloppy Ketchup&lt;/a&gt;, &lt;a href=&quot;event:player_info|PHVBRQR0A192RSM&quot;&gt;MrConkin&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVP71QTF0F2PB1&quot;&gt;Bata La&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVG2Q9NLRJ2B2C&quot;&gt;Cosmogrrl&lt;/a&gt;, &lt;a href=&quot;event:player_info|PHV6K3NUHA925RQ&quot;&gt;phelps.mike&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVLF6M40R73D3D&quot;&gt;Melinia&lt;/a&gt;, &lt;a href=&quot;event:player_info|PUVPT334QN63ORS&quot;&gt;SmartFeller&lt;/a&gt;, &lt;a href=&quot;event:player_info|PCRESF9JJNS1FJ0&quot;&gt;Atlantis&lt;/a&gt;, &lt;a href=&quot;event:player_info|PHVQ5D15EK42F9U&quot;&gt;CeanaRose&lt;/a&gt;, &lt;a href=&quot;event:player_info|PHVC72C4BV720RB&quot;&gt;Sir Kramer&lt;/a&gt; and &lt;a href=&quot;event:player_info|PHV4GARNOH829R0&quot;&gt;Cfill&lt;/a&gt;.</str>
+		<int id="last_hint_time">0</int>
+		<int id="intro_end_time">1350705797</int>
+		<array id="available_quests">
+			<str id="0">join_club</str>
+			<str id="1">join_club</str>
+			<str id="2">join_club</str>
+			<str id="3">join_club</str>
+			<str id="4">join_club</str>
+			<str id="5">join_club</str>
+			<str id="6">join_club</str>
+			<str id="7">join_club</str>
+			<str id="8">join_club</str>
+			<str id="9">join_club</str>
+			<str id="10">join_club</str>
+			<str id="11">join_club</str>
+			<str id="12">join_club</str>
+			<str id="13">join_club</str>
+			<str id="14">join_club</str>
+			<str id="15">join_club</str>
+			<str id="16">join_club</str>
+			<str id="17">join_club</str>
+			<str id="18">join_club</str>
+			<str id="19">join_club</str>
+			<str id="20">join_club</str>
+			<str id="21">join_club</str>
+			<str id="22">join_club</str>
+			<str id="23">join_club</str>
+			<str id="24">join_club</str>
+			<str id="25">join_club</str>
+			<str id="26">join_club</str>
+			<str id="27">join_club</str>
+			<str id="28">join_club</str>
+			<str id="29">join_club</str>
+			<str id="30">join_club</str>
+			<str id="31">join_club</str>
+			<str id="32">join_club</str>
+			<str id="33">join_club</str>
+			<str id="34">join_club</str>
+			<str id="35">join_club</str>
+			<str id="36">join_club</str>
+			<str id="37">join_club</str>
+			<str id="38">join_club</str>
+			<str id="39">join_club</str>
+			<str id="40">join_club</str>
+			<str id="41">join_club</str>
+			<str id="42">join_club</str>
+			<str id="43">join_club</str>
+			<str id="44">join_club</str>
+			<str id="45">join_club</str>
+			<str id="46">join_club</str>
+			<str id="47">join_club</str>
+			<str id="48">join_club</str>
+			<str id="49">join_club</str>
+			<str id="50">join_club</str>
+			<str id="51">join_club</str>
+			<str id="52">join_club</str>
+			<str id="53">join_club</str>
+			<str id="54">join_club</str>
+			<str id="55">join_club</str>
+			<str id="56">join_club</str>
+			<str id="57">join_club</str>
+			<str id="58">join_club</str>
+			<str id="59">join_club</str>
+			<str id="60">join_club</str>
+			<str id="61">join_club</str>
+			<str id="62">join_club</str>
+			<str id="63">join_club</str>
+			<str id="64">join_club</str>
+			<str id="65">join_club</str>
+			<str id="66">join_club</str>
+			<str id="67">join_club</str>
+			<str id="68">join_club</str>
+			<str id="69">join_club</str>
+			<str id="70">join_club</str>
+			<str id="71">join_club</str>
+			<str id="72">join_club</str>
+			<str id="73">join_club</str>
+			<str id="74">join_club</str>
+			<str id="75">join_club</str>
+			<str id="76">join_club</str>
+			<str id="77">join_club</str>
+			<str id="78">join_club</str>
+			<str id="79">join_club</str>
+			<str id="80">join_club</str>
+			<str id="81">join_club</str>
+			<str id="82">join_club</str>
+			<str id="83">join_club</str>
+			<str id="84">join_club</str>
+			<str id="85">join_club</str>
+			<str id="86">join_club</str>
+			<str id="87">join_club</str>
+			<str id="88">join_club</str>
+			<str id="89">join_club</str>
+			<str id="90">join_club</str>
+			<str id="91">join_club</str>
+			<str id="92">join_club</str>
+			<str id="93">join_club</str>
+			<str id="94">join_club</str>
+		</array>
+		<str id="hi_emote_variant">pigs</str>
+		<objref id="hi_emote_daily_targets" tsid="DHF82RT42PC32E9"/>
+		<array id="hi_emote_gt">
+			<int id="0">26</int>
+			<int id="1">3</int>
+			<int id="2">53</int>
+			<int id="3">19</int>
+			<int id="4">55</int>
+		</array>
+		<int id="last_hi_time">1354857704</int>
+		<objref id="hi_response_time" tsid="DHF838U42PC3G29"/>
+		<null id="conversationalist"/>
+	</object>
+	<int id="x">610</int>
+	<int id="y">-94</int>
+	<objref id="container" tsid="LHVJUAJQUDV2L4I" label="Apoidea&apos;s Home Street"/>
+	<objrefs id="items"/>
+</game_object>

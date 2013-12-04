@@ -1,0 +1,19 @@
+<game_object tsid="DHFUIGU4NG43KUI" ts="1346114959752" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs12" load_time="2012-08-27 17:41:08.000" upd_time="2012-08-27 17:41:02.984">
+	<object id="dynamic">
+		<object id="list">
+			<dbl id="cloudberry">1.342547691161E12</dbl>
+			<dbl id="simple_bbq">1.342505970679E12</dbl>
+			<dbl id="mild_sauce">1.342505972186E12</dbl>
+			<dbl id="grilled_cheese">1.342505974313E12</dbl>
+			<dbl id="cheezy_sauce">1.346099449974E12</dbl>
+			<dbl id="chillybusting_chili">1.343187384751E12</dbl>
+			<dbl id="awesome_stew">1.346114473979E12</dbl>
+			<dbl id="cabbage">1.343248760653E12</dbl>
+			<dbl id="cardamom">1.343770368025E12</dbl>
+			<dbl id="hearty_groddle_sammich">1.346099440741E12</dbl>
+			<dbl id="potato">1.34609945577E12</dbl>
+			<dbl id="cheese_plate">1.346114017923E12</dbl>
+			<dbl id="fried_egg">1.346114021387E12</dbl>
+		</object>
+	</object>
+</game_object>

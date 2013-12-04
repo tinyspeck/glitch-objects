@@ -1,0 +1,13 @@
+<game_object tsid="DUVA8VUFGMC3M85" ts="1355098768122" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs7" load_time="2012-12-09 16:19:18.000">
+	<object id="dynamic">
+		<object id="pcs">
+		</object>
+		<object id="pcs_yesterday">
+			<int id="PHVN2AFGUO221DU">1352157445</int>
+		</object>
+		<object id="butlers_yesterday">
+		</object>
+		<object id="butlers">
+		</object>
+	</object>
+</game_object>

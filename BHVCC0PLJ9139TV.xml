@@ -1,0 +1,27 @@
+<game_object tsid="BHVCC0PLJ9139TV" ts="1355112616240" label="Bigger Bag" class_tsid="bag_bigger" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+	</object>
+	<int id="x">0</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IHFQL2GKO083N86" label="Eggy Scramble"/>
+		<objref tsid="IHF9L6BN1M83A2O" label="Silvertongue"/>
+		<objref tsid="IHF3C5DACS734R1" label="Ancestral Spirits"/>
+		<objref tsid="IHF39JPRFM539J0" label="Essence of Yellow Crumb"/>
+		<objref tsid="IHFH3A8MSR738EH" label="Grilled Cheese"/>
+		<objref tsid="IHFS7KHOO083CJC" label="Mexicali Eggs"/>
+		<objref tsid="IHFDMAMA1S738AT" label="Carrot Margarita"/>
+		<objref tsid="IHF48S5CCS73OVV" label="Rook Balm"/>
+		<objref tsid="IHF54FEECS731G2" label="Rainbow Juice"/>
+		<objref tsid="IHFMB50KGK43QC1" label="Note"/>
+		<objref tsid="IHF3RJEBCS73BTQ" label="Keycutter Tonic"/>
+		<objref tsid="IHF4HT7DCS73ULG" label="Amorous Philtre"/>
+		<objref tsid="IHF43EOBCS7348S" label="Potion of Animal Youth"/>
+		<objref tsid="IHFDNLSIAS73OG2" label="Tiny Bubble"/>
+		<objref tsid="IHFBN08T1M8347C" label="Lump of Loam"/>
+		<objref tsid="IHF3M9VACS73M77" label="Door Drink"/>
+	</objrefs>
+</game_object>

@@ -1,0 +1,20 @@
+<game_object tsid="IIFK8LS01HV24FK" ts="1355112616236" label="Focusing Orb" class_tsid="focusing_orb" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" pcont="LHVJU3JQUDV2D17" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<object id="instanceProps">
+			<str id="points_remaining">0</str>
+			<str id="is_broken">0</str>
+		</object>
+		<str id="state">iconic</str>
+		<bool id="meditating">false</bool>
+		<int id="uses">535</int>
+		<dbl id="start_time">1.351287609374E12</dbl>
+		<array id="tr_messages">
+			<str id="0">You radiate your inwardness outwards. -20 Mood -20 Energy</str>
+			<str id="1">Your kindness envelops others. -20 Mood -20 Energy</str>
+			<str id="2">You emit a burst of joy. -20 Mood -20 Energy</str>
+		</array>
+	</object>
+	<int id="x">10</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+</game_object>

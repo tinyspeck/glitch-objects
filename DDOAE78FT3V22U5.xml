@@ -1,0 +1,54 @@
+<game_object tsid="DDOAE78FT3V22U5" ts="1355112616151" label="To Do" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:02.000">
+	<object id="dynamic">
+		<object id="jobs">
+			<object id="LHVJU3JQUDV2D17">
+				<object id="proto-IHF663N7QN0321L">
+					<object id="job_proto_door">
+					</object>
+				</object>
+				<object id="proto-IHF7HU91V453UBJ">
+					<object id="job_cult_metal_rock_2">
+					</object>
+				</object>
+			</object>
+			<object id="LHVA8A68J1V2A6P">
+				<object id="proto-IUVAPP3B0023PJ9">
+					<object id="job_cult_sparkly_rock">
+					</object>
+				</object>
+				<object id="proto-IUVDH8J01023NEC">
+					<object id="job_cult_sparkly_rock">
+					</object>
+				</object>
+			</object>
+			<object id="LHVAEQ78J1V2A57">
+				<object id="proto-IIF5EK7E6B23770">
+					<object id="job_cult_crop_garden_large">
+					</object>
+				</object>
+			</object>
+			<object id="LHVG1S1AJ1V2GN9">
+				<object id="proto-INVGD6984533R2K">
+					<object id="job_cult_barnacle_pod_2">
+					</object>
+				</object>
+			</object>
+			<object id="LHVJUAJQUDV2L4I">
+				<object id="proto-IHF2ANC3OG43GD2">
+					<object id="job_cult_tower">
+					</object>
+				</object>
+				<object id="proto-IHF27J14KT43MN8">
+					<object id="job_cult_metal_rock_2">
+					</object>
+				</object>
+			</object>
+			<object id="LHVUIUU383V2ANP">
+				<object id="proto-IHV9IJB296537RS">
+					<object id="job_cult_peat_bog_2">
+					</object>
+				</object>
+			</object>
+		</object>
+	</object>
+</game_object>

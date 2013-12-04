@@ -1,0 +1,17 @@
+<game_object tsid="BHVA3SDL30232CA" ts="1355112616273" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Keys</str>
+	</object>
+	<int id="x">13</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IIFGCQT62U13L1E" label="Teal-White Triangle Key"/>
+		<objref tsid="IUVB7N409B13PP5" label="Race Ticket"/>
+		<objref tsid="IIFK1F3V0HV2351" label="Orange-Blue Square Key"/>
+		<objref tsid="IHF9C86JO903NI1" label="Red-Green Triangle Key"/>
+		<objref tsid="IHFD5Q1BQ903EIE" label="Teal-Red Hexagon Key"/>
+	</objrefs>
+</game_object>

@@ -1,0 +1,46 @@
+<game_object tsid="IHFB2I28AP23G3J" ts="1355281335053" label="Egg Plant" class_tsid="trant_egg" count="1" container="LHVJUAJQUDV2L4I" tcont="LHVJUAJQUDV2L4I" upd_gs="gs6" load_time="2012-12-10 18:05:44.000" upd_time="2012-12-11 19:01:05.837">
+	<object id="dynamic">
+		<object id="instanceProps">
+			<int id="health">10</int>
+			<int id="maturity">10</int>
+			<int id="fruitCount">213</int>
+			<int id="fruitCapacity">288</int>
+			<str id="dontDie">0</str>
+			<str id="cultivation_max_wear">2000</str>
+			<int id="cultivation_wear">2040</int>
+		</object>
+		<object id="hitBox">
+			<int id="w">400</int>
+			<int id="h">400</int>
+		</object>
+		<int id="start_time">1340644200</int>
+		<int id="maturity_intervals">0</int>
+		<int id="fruit_intervals">0</int>
+		<int id="maturity_cycle">20</int>
+		<int id="pettings">0</int>
+		<int id="waterings">0</int>
+		<int id="last_health_up">1</int>
+		<int id="before_last_health_up">1</int>
+		<int id="health_fall_intervals">13853</int>
+		<int id="tendable_intervals">5</int>
+		<str id="state">talk</str>
+		<str id="proto_class">proto_patch</str>
+		<int id="cultivation_max_wear_multiplier">1</int>
+		<int id="intervals">69553</int>
+		<object id="events">
+		</object>
+		<object id="package_intervals">
+			<object id="gardening_harvest">
+				<object id="26-03-06">
+					<int id="PUVBJQLIQLB38JN">2</int>
+				</object>
+			</object>
+		</object>
+		<str id="dir">left</str>
+	</object>
+	<int id="interval_call_count">1</int>
+	<interval period="1" func="onInterval"/>
+	<int id="x">1329</int>
+	<int id="y">-116</int>
+	<objref id="container" tsid="LHVJUAJQUDV2L4I" label="Apoidea&apos;s Home Street"/>
+</game_object>

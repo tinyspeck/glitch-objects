@@ -1,0 +1,17 @@
+<game_object tsid="BDOBTL69VLV2OEF" ts="1355112616239" label="Elemental Pouch" class_tsid="bag_elemental_pouch" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<bool id="is_limited">true</bool>
+		<int id="is_pack">0</int>
+		<int id="capacity">4</int>
+		<str id="state">iconic_closed</str>
+	</object>
+	<int id="x">8</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IHF8JCB8V453H7T" label="Shiny Element"/>
+		<objref tsid="IHFU7H8U1023EDT" label="Blue Element"/>
+		<objref tsid="IHF8DOV54023BJB" label="Red Element"/>
+		<objref tsid="IDOBVDI9VLV2HD8" label="Green Element"/>
+	</objrefs>
+</game_object>

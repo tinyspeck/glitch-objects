@@ -1,0 +1,57 @@
+<game_object tsid="DHF4GSLDUL83FAP" ts="1355106711374" label="Feats" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 18:29:50.000">
+	<object id="dynamic">
+		<object id="todo">
+		</object>
+		<object id="feats">
+			<object id="meditation_of_groddlocritus">
+				<str id="feat_id">meditation_of_groddlocritus</str>
+				<str id="title">The Meditation of Groddlocritus</str>
+				<int id="xp">48</int>
+				<int id="currants">0</int>
+				<int id="mood">0</int>
+				<int id="energy">0</int>
+				<str id="favor_giant"></str>
+				<int id="favor_points">0</int>
+			</object>
+			<object id="mihceal_conch">
+				<str id="feat_id">mihceal_conch</str>
+				<str id="title">Mihceal, Blow that Conch</str>
+				<int id="xp">1148</int>
+				<int id="currants">0</int>
+				<int id="mood">28</int>
+				<int id="energy">0</int>
+				<str id="favor_giant">grendaline</str>
+				<int id="favor_points">81</int>
+				<object id="items">
+				</object>
+				<object id="recipes">
+				</object>
+				<object id="drop_table">
+				</object>
+			</object>
+			<object id="hi_signs_1">
+				<str id="feat_id">hi_signs_1</str>
+				<str id="title">A Fine How-Do-You-Do</str>
+				<int id="place">3992</int>
+				<int id="xp">10</int>
+				<int id="currants">5</int>
+				<int id="mood">0</int>
+				<int id="energy">0</int>
+				<str id="favor_giant">all</str>
+				<int id="favor_points">1</int>
+				<object id="items">
+					<object id="0">
+						<str id="class_tsid">petrified_rock_small</str>
+						<str id="count">1</str>
+					</object>
+				</object>
+				<object id="recipes">
+				</object>
+				<object id="drop_table">
+				</object>
+			</object>
+		</object>
+		<object id="in_progress">
+		</object>
+	</object>
+</game_object>

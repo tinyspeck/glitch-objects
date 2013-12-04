@@ -1,0 +1,76 @@
+<game_object tsid="DDOAEK8FT3V22UE" ts="1340588047882" label="Clothing" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs12" load_time="2012-06-24 18:34:07.881">
+	<object id="dynamic">
+		<object id="slots">
+			<object id="shirt">
+				<object id="147">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="181">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="274">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="148">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="158">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="312">
+					<int id="when">1337040272</int>
+					<str id="cost_credits">10</str>
+				</object>
+			</object>
+			<object id="pants">
+				<object id="119">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="163">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="189">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="170">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="159">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="366">
+					<int id="when">1337040272</int>
+					<str id="cost_credits">10</str>
+				</object>
+			</object>
+			<object id="shoes">
+				<object id="108">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="112">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="228">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="244">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="261">
+					<int id="when">1336704936</int>
+				</object>
+				<object id="251">
+					<int id="when">1337040272</int>
+					<str id="cost_credits">15</str>
+				</object>
+			</object>
+			<object id="hat">
+				<object id="136">
+					<int id="when">1337040272</int>
+				</object>
+			</object>
+		</object>
+		<int id="clothing_changes">1</int>
+		<int id="face_changes">2</int>
+	</object>
+</game_object>

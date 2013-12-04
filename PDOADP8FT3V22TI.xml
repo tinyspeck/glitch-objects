@@ -1,0 +1,554 @@
+<game_object tsid="PDOADP8FT3V22TI" ts="1359263650109" label="Apoidea" class_tsid="human" userid="122470" location="LHV7T9L7J1V2H74" lpa="3g8ao5il" upd_gs="gs6" load_time="2013-01-26 21:13:59.000" upd_time="2013-01-26 20:49:28.479">
+	<object id="dynamic">
+		<int id="date_last_login">1355106571</int>
+		<int id="is_dead">0</int>
+		<object id="metabolics">
+			<prop id="energy" name="energy" top="900">893</prop>
+			<prop id="mood" name="mood" top="900">872</prop>
+			<int id="tank">900</int>
+		</object>
+		<objref id="skills" tsid="DDOADR8FT3V22TN" label="Skills"/>
+		<objref id="recipes" tsid="DDOADS8FT3V22TF" label="Recipes"/>
+		<object id="making">
+		</object>
+		<objref id="buffs" tsid="DDOADT8FT3V22TU" label="Buffs"/>
+		<objref id="achievements" tsid="DDOADU8FT3V22TO" label="Achievements"/>
+		<object id="quests">
+			<objref id="todo" tsid="DDOADV8FT3V22T1" label="To Do"/>
+			<objref id="done" tsid="DDOAE08FT3V22T0" label="Done"/>
+			<objref id="fail_repeat" tsid="DDOAE18FT3V22TR" label="Repeatable Failed"/>
+			<objref id="misc" tsid="DDOAE28FT3V22TC" label="Misc"/>
+			<array id="queue">
+			</array>
+		</object>
+		<objref id="instances" tsid="DDOAE38FT3V22TU" label="Instances"/>
+		<objref id="auctions" tsid="DDOAE48FT3V22TS" label="Auctions"/>
+		<object id="jobs">
+			<objref id="todo" tsid="DDOAE78FT3V22U5" label="To Do"/>
+			<objref id="done" tsid="DDOAE88FT3V22U6" label="Done"/>
+		</object>
+		<objref id="daily_history" tsid="DDOAE98FT3V22U6" label="Daily History"/>
+		<objref id="mail" tsid="DDOAEC8FT3V22U5" label="Mail"/>
+		<object id="friends">
+			<objref id="group1" tsid="DDOAEE8FT3V22UN" label="Buddies"/>
+			<objref id="cache" tsid="DDOAEF8FT3V22U8" label="Cache"/>
+			<objref id="reverse" tsid="DDOAEG8FT3V22UH" label="Reverse Contacts"/>
+		</object>
+		<objref id="ignoring" tsid="DDOAEH8FT3V22UC" label="Ignoring"/>
+		<objref id="ignored_by" tsid="DDOAEI8FT3V22UV" label="Ignored By"/>
+		<objref id="reverse_buddy_cache" tsid="DDOAEJ8FT3V22UL" label="Reverse Buddy Cache"/>
+		<objref id="clothing" tsid="DDOAEK8FT3V22UE" label="Clothing"/>
+		<object id="a2">
+			<int id="hat">136</int>
+			<int id="coat">0</int>
+			<int id="shirt">312</int>
+			<int id="pants">366</int>
+			<int id="dress">0</int>
+			<int id="skirt">0</int>
+			<int id="shoes">251</int>
+			<int id="eyes">11</int>
+			<int id="ears">0</int>
+			<int id="nose">50</int>
+			<int id="mouth">40</int>
+			<int id="hair">64</int>
+			<int id="hair_color">8</int>
+			<int id="skin_color">63</int>
+			<dbl id="eye_scale">0.84873333333333</dbl>
+			<dbl id="eye_height">0.88</dbl>
+			<dbl id="eye_dist">-2.5266666666667</dbl>
+			<dbl id="ears_scale">0.824</dbl>
+			<int id="ears_height">1</int>
+			<dbl id="nose_scale">1.0126666666667</dbl>
+			<dbl id="nose_height">0.50666666666667</dbl>
+			<dbl id="mouth_scale">0.75</dbl>
+			<dbl id="mouth_height">0.28</dbl>
+		</object>
+		<objref id="groups" tsid="DDOAEL8FT3V22UR" label="Groups"/>
+		<object id="group_invites">
+			<int id="RIF58P0PC56371M">1</int>
+		</object>
+		<object id="group_applied">
+		</object>
+		<array id="group_chats">
+		</array>
+		<objref id="organizations" tsid="DDOAEM8FT3V22UR" label="Organizations"/>
+		<objref id="conversations" tsid="DDOAEN8FT3V22U0" label="Conversations"/>
+		<objref id="teleportation" tsid="DDOAEO8FT3V22UA" label="Teleportation"/>
+		<objref id="counters" tsid="DDOAEP8FT3V22UD" label="Counters"/>
+		<objref id="imagination" tsid="DDOAEQ8FT3V22UD" label="Imagination"/>
+		<objref id="furniture" tsid="DDOAER8FT3V22UH" label="Furniture"/>
+		<int id="h">112</int>
+		<int id="w">59</int>
+		<bool id="has_done_intro">true</bool>
+		<object id="av_meta">
+			<str id="sheets">http://c2.glitch.bz/avatars/2012-05-14/05e0f57c8226bd052bed8299b5f06912_1337040938</str>
+			<int id="version">3</int>
+			<bool id="pending">false</bool>
+			<str id="singles">http://c2.glitch.bz/avatars/2012-05-14/05e0f57c8226bd052bed8299b5f06912_1337040818</str>
+		</object>
+		<object id="followers">
+		</object>
+		<objref id="last_location" tsid="LHV7T9L7J1V2H74" label="Bees!&apos;s Home Street"/>
+		<array id="tp_queue">
+		</array>
+		<object id="prefs">
+			<bool id="int_menu_more_quantity_buttons">false</bool>
+			<bool id="int_menu_default_to_one">false</bool>
+			<bool id="no_growls">false</bool>
+			<bool id="do_oneclick_pickup">true</bool>
+			<bool id="do_stat_count_animations">true</bool>
+			<bool id="do_power_saving_mode">true</bool>
+			<bool id="up_key_is_enter">false</bool>
+		</object>
+		<str id="live_help_group">RA512UITCLA22AD</str>
+		<str id="global_chat_group">RA9118JTCLA204I</str>
+		<object id="acl_keys">
+		</object>
+		<object id="houses">
+			<int id="LHVJU3JQUDV2D17">1</int>
+			<int id="LHVJUAJQUDV2L4I">1</int>
+		</object>
+		<int id="date_last_loggedin">1355106590</int>
+		<str id="last_online_gameday">26-04-01</str>
+		<bool id="is_afk">false</bool>
+		<int id="daily_quoin_limit">1355100037</int>
+		<str id="last_hub_visited">POL_PLI10VSF8V7IE</str>
+		<str id="s">7</str>
+		<int id="time_played">412219</int>
+		<int id="date_last_logout">1355106704</int>
+		<object id="home">
+			<objref id="interior" tsid="LHVJU3JQUDV2D17" label="Apoidea&apos;s House"/>
+			<objref id="exterior" tsid="LHVJUAJQUDV2L4I" label="Apoidea&apos;s Home Street"/>
+			<objref id="tower" tsid="LHFJJ0N1O6531P6" label="Apoidea&apos;s Tower"/>
+		</object>
+		<int id="food_today">0</int>
+		<int id="radiation_today">0</int>
+		<int id="deaths_today">0</int>
+		<object id="greeting">
+			<bool id="beta_user">true</bool>
+		</object>
+		<array id="secret_giants">
+			<str id="0">zille</str>
+			<str id="1">grendaline</str>
+			<str id="2">tii</str>
+			<str id="3">friendly</str>
+			<str id="4">spriggan</str>
+			<str id="5">cosma</str>
+			<str id="6">humbaba</str>
+			<str id="7">pot</str>
+			<str id="8">mab</str>
+			<str id="9">alph</str>
+		</array>
+		<array id="secret_locations">
+			<null id="0"/>
+			<null id="1"/>
+			<object id="2">
+				<str id="id">11spots_besara_01</str>
+				<str id="tsid">LA9G6MA4P6923PH</str>
+				<int id="x">-949</int>
+				<int id="y">-874</int>
+			</object>
+			<object id="3">
+				<str id="id">11spots_shimlamirch_05</str>
+				<str id="tsid">LTJ11KEKAKO196V</str>
+				<int id="x">-1371</int>
+				<int id="y">-753</int>
+			</object>
+			<object id="4">
+				<str id="id">11spots_kalavana_01</str>
+				<str id="tsid">LA91SD0IEQA24L5</str>
+				<int id="x">2402</int>
+				<int id="y">-564</int>
+			</object>
+			<null id="5"/>
+			<object id="6">
+				<str id="id">11spots_andra_04</str>
+				<str id="tsid">LA51B2OQAK623EF</str>
+				<int id="x">-2851</int>
+				<int id="y">-605</int>
+			</object>
+			<null id="7"/>
+			<object id="8">
+				<str id="id">11spots_ilmenskie_deeps_02</str>
+				<str id="tsid">LM112V6OCA126K1</str>
+				<int id="x">-662</int>
+				<int id="y">-110</int>
+			</object>
+			<object id="9">
+				<str id="id">11spots_besara_04</str>
+				<str id="tsid">LA91O38QQ192K8J</str>
+				<int id="x">-487</int>
+				<int id="y">-751</int>
+			</object>
+			<object id="10">
+				<str id="id">11spots_groddleheights_02</str>
+				<str id="tsid">LCR10H9E3QJ1E2P</str>
+				<int id="x">258</int>
+				<int id="y">-734</int>
+			</object>
+			<object id="11">
+				<str id="id">11spots_aranna_05</str>
+				<str id="tsid">LHVMK86NP7B26E6</str>
+				<int id="x">2392</int>
+				<int id="y">-702</int>
+			</object>
+			<object id="12">
+				<str id="id">11spots_salatu_06</str>
+				<str id="tsid">LIFJP2UC80820D3</str>
+				<int id="x">2798</int>
+				<int id="y">-587</int>
+			</object>
+			<null id="13"/>
+			<null id="14"/>
+			<object id="15">
+				<str id="id">11spots_kajuu_05</str>
+				<str id="tsid">LHV15EUNEQ32FCI</str>
+				<int id="x">-2906</int>
+				<int id="y">-604</int>
+			</object>
+			<null id="16"/>
+			<object id="17">
+				<str id="id">11spots_tamila_01</str>
+				<str id="tsid">LIF7SHGS3E72T8L</str>
+				<int id="x">-2798</int>
+				<int id="y">-798</int>
+			</object>
+			<null id="18"/>
+			<null id="19"/>
+		</array>
+		<object id="daily_favor">
+			<prop id="alph" name="alph" top="1500">0</prop>
+			<prop id="cosma" name="cosma" top="1400">0</prop>
+			<prop id="friendly" name="friendly" top="2300">0</prop>
+			<prop id="grendaline" name="grendaline" top="2400">0</prop>
+			<prop id="humbaba" name="humbaba" top="1500">0</prop>
+			<prop id="lem" name="lem" top="1800">0</prop>
+			<prop id="mab" name="mab" top="2200">0</prop>
+			<prop id="pot" name="pot" top="1400">0</prop>
+			<prop id="spriggan" name="spriggan" top="1500">0</prop>
+			<prop id="ti" name="ti" top="1500">0</prop>
+			<prop id="zille" name="zille" top="1500">0</prop>
+		</object>
+		<int id="seenMaxDonationsPrompt">0</int>
+		<object id="familiar">
+			<object id="details">
+			</object>
+			<array id="stack">
+			</array>
+		</object>
+		<object id="prompts">
+		</object>
+		<object id="stats">
+			<prop id="xp" name="xp" top="23041093">737862</prop>
+			<int id="level">26</int>
+			<prop id="currants" name="currants" top="2000000000">135183</prop>
+			<prop id="quoins_today" name="quoins_today" top="1355100037">0</prop>
+			<prop id="meditation_today" name="meditation_today" top="1350">0</prop>
+			<object id="misc">
+			</object>
+			<prop id="rube_trades" name="rube_trades" top="3">0</prop>
+			<prop id="rube_lure_disabled" name="rube_lure_disabled" top="1">0</prop>
+			<prop id="imagination" name="imagination" top="2000000000">21067</prop>
+			<prop id="credits" name="credits" top="2000000000">2695</prop>
+			<dbl id="quoin_multiplier">9.650000000000002</dbl>
+			<bool id="has_subscription">true</bool>
+			<prop id="donation_xp_today" name="donation_xp_today" top="67961">0</prop>
+			<int id="subscription_end">1355126400</int>
+			<object id="daily_count">
+				<int id="cultivation_img_rewards">0</int>
+			</object>
+			<int id="last_rube_trade">1343188363</int>
+		</object>
+		<objref id="street_history" tsid="DDOMTTABS5V24GL" label="Street History"/>
+		<object id="favor_points">
+			<prop id="alph" name="alph" top="1500">96</prop>
+			<prop id="cosma" name="cosma" top="1400">335</prop>
+			<prop id="friendly" name="friendly" top="2300">1722</prop>
+			<prop id="grendaline" name="grendaline" top="2400">1479</prop>
+			<prop id="humbaba" name="humbaba" top="1500">186</prop>
+			<prop id="lem" name="lem" top="1800">296</prop>
+			<prop id="mab" name="mab" top="2200">1328</prop>
+			<prop id="pot" name="pot" top="1400">1053</prop>
+			<prop id="spriggan" name="spriggan" top="1500">343</prop>
+			<prop id="ti" name="ti" top="1500">516</prop>
+			<prop id="zille" name="zille" top="1500">727</prop>
+		</object>
+		<object id="giant_emblems">
+			<prop id="zille" name="zille" top="100000">5</prop>
+			<prop id="lem" name="lem" top="100000">8</prop>
+			<prop id="humbaba" name="humbaba" top="100000">5</prop>
+			<prop id="grendaline" name="grendaline" top="100000">14</prop>
+			<prop id="cosma" name="cosma" top="100000">4</prop>
+			<prop id="friendly" name="friendly" top="100000">13</prop>
+			<prop id="ti" name="ti" top="100000">5</prop>
+			<prop id="alph" name="alph" top="100000">5</prop>
+			<prop id="mab" name="mab" top="100000">12</prop>
+			<prop id="spriggan" name="spriggan" top="100000">5</prop>
+			<prop id="pot" name="pot" top="100000">4</prop>
+		</object>
+		<objref id="trading" tsid="DDOMTUABS5V24NP" label="Trading"/>
+		<objref id="rewards" tsid="DDOMU0ABS5V24NH" label="Rewards"/>
+		<object id="events">
+		</object>
+		<int id="new_player_goodbye_familiar">1336770937</int>
+		<object id="physics_new">
+			<object id="imagination">
+				<int id="is_permanent">1</int>
+				<int id="is_img">1</int>
+				<int id="vy_jump">1</int>
+				<int id="vx_max">1</int>
+				<int id="can_3_jump">1</int>
+				<dbl id="multiplier_3_jump">0.8</dbl>
+				<int id="can_wall_jump">0</int>
+				<dbl id="added_time">1.342669406577E12</dbl>
+				<int id="gravity">1</int>
+			</object>
+		</object>
+		<int id="last_quest_offer">1355098428</int>
+		<int id="jump_count">14914</int>
+		<object id="skill_package">
+		</object>
+		<str id="secret_id">11spots_shimlamirch_03</str>
+		<object id="category_reductions">
+			<dbl id="19">0.95</dbl>
+			<dbl id="14">0.9</dbl>
+			<dbl id="8">0.85</dbl>
+			<dbl id="17">0.9</dbl>
+			<dbl id="6">0.9</dbl>
+			<dbl id="16">0.95</dbl>
+			<dbl id="11">0.95</dbl>
+		</object>
+		<int id="p2p_collisions">0</int>
+		<object id="baqala_times">
+			<int id="time_spent">317</int>
+			<bool id="offer_quest">true</bool>
+			<bool id="logged_out">false</bool>
+			<int id="entry_time">1355099159</int>
+			<int id="exit_time">1355099476</int>
+			<int id="total_time_spent">317</int>
+		</object>
+		<bool id="too_much_nostalgia_prompt">true</bool>
+		<object id="delayedCreateItems">
+		</object>
+		<str id="delivery_type">auction</str>
+		<int id="next_delivery">-1</int>
+		<int id="previous_small_enlightenment_time">0</int>
+		<bool id="do_not_disturb">false</bool>
+		<bool id="frogVisiting">true</bool>
+		<object id="musicblocks_heard">
+			<int id="musicblock_x_shiny_02">1339555307</int>
+			<int id="musicblock_d_blue_03">1340260846</int>
+			<int id="musicblock_d_red_05">1339555293</int>
+			<int id="musicblock_d_blue_04">1339555265</int>
+			<int id="musicblock_d_green_02">1339555249</int>
+			<int id="musicblock_d_red_02">1340436234</int>
+			<int id="musicblock_b_brown_01">1339616590</int>
+			<int id="musicblock_d_red_04">1339556041</int>
+			<int id="musicblock_d_red_01">1339572803</int>
+			<int id="musicblock_d_green_04">1339734863</int>
+			<int id="musicblock_b_brown_03">1339789193</int>
+			<int id="musicblock_x_shiny_01">1339798110</int>
+			<int id="musicblock_b_brown_05">1340170108</int>
+			<int id="musicblock_x_shiny_05">1340260775</int>
+			<int id="musicblock_d_green_03">1340401856</int>
+			<int id="musicblock_b_brown_04">1340407855</int>
+			<int id="musicblock_d_blue_05">1340511125</int>
+			<int id="musicblock_x_shiny_03">1340512425</int>
+			<int id="musicblock_d_blue_01">1340686838</int>
+			<int id="musicblock_d_green_05">1340744641</int>
+			<int id="musicblock_x_shiny_04">1342546038</int>
+		</object>
+		<int id="secret_message_index">1</int>
+		<str id="last_magic_rock_location">LHVJUAJQUDV2L4I</str>
+		<object id="skill_package_overrides">
+		</object>
+		<dbl id="last_bonus_snails">1.343265313828E12</dbl>
+		<int id="feeling_called_love_last_time">1339040842</int>
+		<str id="last_random_destination">LHV6HOCAH203RMF</str>
+		<bool id="fox_preserve_visit">true</bool>
+		<bool id="fox_preserve_intro">true</bool>
+		<str id="back_alley_business">fuelmaking</str>
+		<str id="butler_tsid">BHFOF9AMNL13SL0</str>
+		<dbl id="last_command_time">1.339450339306E12</dbl>
+		<objref id="zilloweenTreaters" tsid="DHVVHJEVTN13E60"/>
+		<int id="delivery_order">2</int>
+		<null id="swf_one"/>
+		<null id="swf_two"/>
+		<null id="swf_three"/>
+		<int id="glitch_game">0</int>
+		<array id="animals_named">
+			<object id="0">
+				<str id="class_id">npc_piggy</str>
+				<str id="tsid">IHF7R1CPLN23HIL</str>
+				<undefined id="from"/>
+				<str id="to">Barry</str>
+				<int id="on">1340589198</int>
+			</object>
+			<object id="1">
+				<str id="class_id">npc_butterfly</str>
+				<str id="tsid">IHF7FUGMLN23OL8</str>
+				<undefined id="from"/>
+				<str id="to">Barry</str>
+				<int id="on">1340589169</int>
+			</object>
+			<object id="2">
+				<str id="class_id">npc_chicken</str>
+				<str id="tsid">IHF7KEINLN23PHS</str>
+				<undefined id="from"/>
+				<str id="to">Barry</str>
+				<int id="on">1340589143</int>
+			</object>
+			<object id="3">
+				<str id="class_id">npc_butterfly</str>
+				<str id="tsid">IUVQR9PPNT13C1B</str>
+				<str id="from">Gamera</str>
+				<str id="to">Mothra</str>
+				<int id="on">1340588185</int>
+			</object>
+			<object id="4">
+				<str id="class_id">npc_piggy</str>
+				<str id="tsid">IIF4IS96FN23I6Q</str>
+				<str id="from">Derek</str>
+				<str id="to">Jason</str>
+				<int id="on">1340588174</int>
+			</object>
+		</array>
+		<bool id="hasBeenWarned">true</bool>
+		<object id="fully_grown_trants">
+			<int id="IHFB2H28AP23FVQ">1340679584</int>
+			<int id="IHFB2I28AP23G3J">1340680784</int>
+		</object>
+		<array id="making_queue">
+		</array>
+		<objref id="food_history" tsid="DHFUIGU4NG43KUI"/>
+		<str id="trade_chat_group">RA5DT5I72543L5R</str>
+		<bool id="use_img">true</bool>
+		<object id="teleportation_scripts_given">
+			<str id="PHV1G65BUR62RUK">PHV1G65BUR62RUK</str>
+			<str id="PHFG3O0I73D222O">PHFG3O0I73D222O</str>
+			<str id="PUVK46QGM9G2ANO">PUVK46QGM9G2ANO</str>
+		</object>
+		<object id="stacked_physics_cache">
+			<object id="keys">
+			</object>
+			<bool id="can_3_jump">true</bool>
+			<int id="vx_max">1</int>
+			<int id="vy_max">1</int>
+			<int id="gravity">1</int>
+			<int id="vy_jump">1</int>
+			<int id="vx_accel_add_in_floor">1</int>
+			<int id="vx_accel_add_in_air">1</int>
+			<int id="friction_floor">1</int>
+			<int id="friction_air">1</int>
+			<int id="friction_thresh">1</int>
+			<int id="vx_off_ladder">1</int>
+			<int id="pc_scale">1</int>
+			<int id="item_scale">1</int>
+			<int id="y_cam_offset">1</int>
+			<dbl id="multiplier_3_jump">0.8</dbl>
+		</object>
+		<object id="home_profile">
+			<object id="interior">
+				<str id="tsid">LHVJU3JQUDV2D17</str>
+				<str id="house">Apoidea's House</str>
+				<object id="home">
+					<int id="yard_start">5</int>
+					<int id="yard_now">13</int>
+					<int id="yard_max">20</int>
+					<int id="segs_start">7</int>
+					<int id="segs_now">8</int>
+					<int id="segs_max">20</int>
+					<int id="floors_now">2</int>
+					<int id="floors_max">3</int>
+				</object>
+				<object id="entry">
+					<int id="x">1090</int>
+					<int id="y">-120</int>
+				</object>
+			</object>
+			<object id="exterior">
+				<str id="tsid">LHVJUAJQUDV2L4I</str>
+				<str id="house">Apoidea's Home Street</str>
+				<object id="home">
+					<int id="left_start">3</int>
+					<int id="right_start">8</int>
+					<int id="left_now">20</int>
+					<int id="right_now">12</int>
+					<int id="left_max">20</int>
+					<int id="right_max">20</int>
+					<str id="style">meadow_ext_default_high</str>
+				</object>
+				<object id="entry">
+					<int id="x">324</int>
+					<int id="y">-97</int>
+				</object>
+			</object>
+			<object id="tower">
+				<str id="tsid">LHFJJ0N1O6531P6</str>
+				<str id="house">Apoidea's Tower</str>
+				<object id="home">
+					<str id="custom_name">HIVE #1</str>
+					<int id="floors_start">2</int>
+					<int id="floors_now">2</int>
+					<int id="floors_max">9</int>
+				</object>
+				<object id="entry">
+					<int id="x">1111</int>
+					<int id="y">-53</int>
+				</object>
+			</object>
+		</object>
+		<bool id="home_allow_visits">true</bool>
+		<object id="magic_rock">
+			<str id="cultivate">cultivate_complete</str>
+			<str id="changestyle">howto_shown</str>
+			<str id="customize">howto_shown</str>
+			<str id="expand">howto_shown</str>
+			<str id="keys">howto_shown</str>
+		</object>
+		<int id="giant_tip_index">11</int>
+		<bool id="has_seen_visiting_stone">true</bool>
+		<objref id="feats" tsid="DHF4GSLDUL83FAP" label="Feats"/>
+		<int id="conch_heard">1348176572</int>
+		<bool id="has_blown_conch">true</bool>
+		<objref id="hi_emote_daily_targets" tsid="DUVA8VUFGMC3M85"/>
+		<int id="has_facebook">0</int>
+		<bool id="global_chatter">true</bool>
+		<bool id="has_play_cube">true</bool>
+		<bool id="has_visited_tower">true</bool>
+		<object id="home_leave">
+			<str id="tsid">LLI3272LOTD1B1F</str>
+			<int id="x">-1849</int>
+			<int id="y">-83</int>
+		</object>
+	</object>
+	<int id="delayed_call_count">1</int>
+	<delayed_call when="1357628199395" func="achievements_run_callback_queue" call_id="PDOADP8FT3V22TI.achievements_run_callback_queue"/>
+	<objrefs id="items">
+		<objref tsid="BHVA3UDL30232GE" label="Bigger Gray Bag"/>
+		<objref tsid="BUVT1NINTN13DFL" label="Bigger Gray Bag"/>
+		<objref tsid="BHVA378L30230AK" label="Bigger Pink Bag"/>
+		<objref tsid="IHVKNR85F603IR7" label="Random Kindness"/>
+		<objref tsid="BHVB2JES3023POH" label="Bigger Gray Bag"/>
+		<objref tsid="BDOMTVABS5V24NT" label="Private Trading Storage"/>
+		<objref tsid="BHVB2KES3023PQP" label="Bigger Gray Bag"/>
+		<objref tsid="IIFK8LS01HV24FK" label="Focusing Orb"/>
+		<objref tsid="BUVT22LNTN13P75" label="Bigger Green Bag"/>
+		<objref tsid="BHVA3TDL30232ER" label="Bigger Gray Bag"/>
+		<objref tsid="BDOAES8FT3V22UJ" label="Private Furniture Storage"/>
+		<objref tsid="BUVT0I6NTN13DCB" label="Bigger Blue Bag"/>
+		<objref tsid="BNVUFU6GT3V2TJT" label="Private Auction Storage"/>
+		<objref tsid="BDOBTL69VLV2OEF" label="Elemental Pouch"/>
+		<objref tsid="BDOMU1ABS5V24NP" label="Private Rewards Overflow Storage"/>
+		<objref tsid="BHVB2MES3023PTA" label="Bigger Gray Bag"/>
+		<objref tsid="BHVCC0PLJ9139TV" label="Bigger Bag"/>
+		<objref tsid="BDOAF88FT3V233D" label="Private Trophy Storage"/>
+		<objref tsid="BDOKO219GJI2JKU" label="Alchemistry Kit"/>
+		<objref tsid="BHVA3SDL30232CA" label="Bigger Gray Bag"/>
+		<objref tsid="BHVB2LES3023PS4" label="Bigger Gray Bag"/>
+		<objref tsid="BDOAED8FT3V22UV" label="Private Mail Storage"/>
+	</objrefs>
+	<int id="x">786</int>
+	<int id="y">-97</int>
+	<objref id="location" tsid="LHV7T9L7J1V2H74" label="Bees!&apos;s Home Street"/>
+</game_object>

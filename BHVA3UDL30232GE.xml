@@ -1,0 +1,22 @@
+<game_object tsid="BHVA3UDL30232GE" ts="1355112616230" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Random</str>
+	</object>
+	<int id="x">12</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IIFSTRPPP5K2E2D" label="Essence of Silvertongue"/>
+		<objref tsid="INV9G0VD25537IG" label="Fertilidust (5/5)"/>
+		<objref tsid="IDOBRULFVDV25HH" label="Spinach"/>
+		<objref tsid="IHVANL5GI9139TR" label="Fox Brush"/>
+		<objref tsid="IUVJD6NE5S23A6S" label="Fox Bait"/>
+		<objref tsid="IHVA6K8H91U2NBH" label="Spinach"/>
+		<objref tsid="IIF1AOOKVH43MD1" label="Fertilidust Lite (5/5)"/>
+		<objref tsid="IUVSF63S9MV2MV3" label="Get Out of Hell Free Card"/>
+		<objref tsid="IHV4EPEMTK23L9D" label="Charades Potion"/>
+		<objref tsid="IHF6EKLH2S83FUJ" label="Essence of Silvertongue"/>
+	</objrefs>
+</game_object>

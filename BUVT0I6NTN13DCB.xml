@@ -1,0 +1,28 @@
+<game_object tsid="BUVT0I6NTN13DCB" ts="1355112616239" label="Bigger Blue Bag" class_tsid="bag_bigger_blue" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Food  Drink</str>
+	</object>
+	<int id="x">1</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IIFUCLN26U132AK" label="Lemon Juice"/>
+		<objref tsid="IA573KMO6153TKG" label="Awesome Stew"/>
+		<objref tsid="IA573HMO6153TFV" label="Awesome Stew"/>
+		<objref tsid="IHFFRVJ85B238G1" label="Cosma-politan"/>
+		<objref tsid="IHFVS40BOP93090" label="Fortune Cookie"/>
+		<objref tsid="IHFQ37N1NV83BAB" label="Bubble and Squeak"/>
+		<objref tsid="IHFCEN41Q903KTO" label="Gurly Drink"/>
+		<objref tsid="IA573JMO6153TJH" label="Awesome Stew"/>
+		<objref tsid="IUVUIS4RS353R3E" label="Awesome Stew"/>
+		<objref tsid="IHFC14OGAP23AC7" label="Sparkle Powder (5/5)"/>
+		<objref tsid="IHF6AU9EOV8340A" label="Cheezy Sauce"/>
+		<objref tsid="IHFQVF6LO0837HH" label="Green Egg"/>
+		<objref tsid="IHFL16D3UA23MIG" label="Earthshaker"/>
+		<objref tsid="IHFO9H8J3553UKM" label="Chilly-Busting Chili"/>
+		<objref tsid="IHFO7ANP2M834O7" label="Hooch"/>
+		<objref tsid="IA573MMO6153TM8" label="Awesome Stew"/>
+	</objrefs>
+</game_object>

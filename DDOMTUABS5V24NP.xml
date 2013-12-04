@@ -1,0 +1,6 @@
+<game_object tsid="DDOMTUABS5V24NP" ts="1355112616226" label="Trading" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:02.000">
+	<object id="dynamic">
+		<str id="storage_tsid">BDOMTVABS5V24NT</str>
+		<int id="currants">0</int>
+	</object>
+</game_object>

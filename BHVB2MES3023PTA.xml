@@ -1,0 +1,26 @@
+<game_object tsid="BHVB2MES3023PTA" ts="1355112616241" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Blocks XS BB DB</str>
+	</object>
+	<int id="x">6</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IHVFBS760M139KE" label="Musicblock DB-4"/>
+		<objref tsid="IUVGT6UC1JV285L" label="Musicblock XS-2"/>
+		<objref tsid="IUVMRETPLQ133BF" label="Musicblock BB-1"/>
+		<objref tsid="IA5KQ86GCL23QAO" label="Musicblock XS-3"/>
+		<objref tsid="IDOL0DIHBOV2GPC" label="Musicblock DB-3"/>
+		<objref tsid="IHV8K17B30238CL" label="Musicblock XS-1"/>
+		<objref tsid="IIF1REHQVH4314E" label="Musicblock XS-4"/>
+		<objref tsid="IA5BTEH36B232MI" label="Musicblock BB-5"/>
+		<objref tsid="IUVRF9TSIQ23TSG" label="Musicblock DB-1"/>
+		<objref tsid="INV57JH6P653OGS" label="Musicblock DB-2"/>
+		<objref tsid="IHF55D5RQV136DV" label="Musicblock BB-3"/>
+		<objref tsid="IHVOGN0T4923173" label="Musicblock DB-5"/>
+		<objref tsid="IUVQE5VQ8I235HK" label="Musicblock BB-4"/>
+		<objref tsid="IHVSJA6ISD2395P" label="Musicblock XS-5"/>
+	</objrefs>
+</game_object>

@@ -1,0 +1,28 @@
+<game_object tsid="BHVA3TDL30232ER" ts="1355112616238" label="Bigger Gray Bag" class_tsid="bag_bigger_gray" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+		<int id="is_pack">0</int>
+		<int id="capacity">16</int>
+		<str id="user_name">Tools without wear</str>
+	</object>
+	<int id="x">14</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="IA5EJKFNTKV227M" label="Spice Mill"/>
+		<objref tsid="IIFF7MSSKO53T4J" label="Cauldron"/>
+		<objref tsid="IIF458FEE6434VV" label="Cocktail Shaker"/>
+		<objref tsid="IUVU0CHM1S138A3" label="Beaker"/>
+		<objref tsid="IUVS5GUUL323S6J" label="Bubble Tuner"/>
+		<objref tsid="IIFBH5PMFM53AB9" label="Tincturing Kit"/>
+		<objref tsid="INV19GDDFM033H0" label="Camera"/>
+		<objref tsid="IUVA2HUP9T13F5Q" label="Fruit Changing Machine"/>
+		<objref tsid="IDOKEHGK2HV2F04" label="Emotional Bear"/>
+		<objref tsid="IA99F2KMDQ13OIG" label="Bean Seasoner"/>
+		<objref tsid="INV91HNG5913A71" label="Gassifier"/>
+		<objref tsid="IIF4478EE64340F" label="Famous Pugilist Grill"/>
+		<objref tsid="IDOG93A79MV2P8O" label="Test Tube"/>
+		<objref tsid="IIF44NBEE643PUE" label="Saucepan"/>
+		<objref tsid="IIF45KHEE643GO1" label="Blender"/>
+		<objref tsid="IIFTI0ESKN23BOE" label="Egg Seasoner"/>
+	</objrefs>
+</game_object>

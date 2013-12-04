@@ -1,0 +1,8 @@
+<game_object tsid="RA512UITCLA22AD" ts="1360371532775" label="Live Help" class_tsid="group" upd_gs="gs6" load_time="2013-02-08 16:58:42.000" upd_time="2013-02-08 16:25:16.629">
+	<object id="dynamic">
+		<object id="chat_roster">
+			<objref id="PIF1SSTQT4T70" tsid="PIF1SSTQT4T70" label="jdawg"/>
+			<objref id="PIF5NL12S3D1BH3" tsid="PIF5NL12S3D1BH3" label="Jade"/>
+		</object>
+	</object>
+</game_object>

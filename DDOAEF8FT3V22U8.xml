@@ -1,0 +1,33 @@
+<game_object tsid="DDOAEF8FT3V22U8" ts="1357628179446" label="Cache" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2013-01-07 22:56:09.000" upd_time="2013-01-07 22:44:43.894">
+	<object id="dynamic">
+		<object id="pcs">
+			<object id="PIF5UKTP9PULH">
+				<str id="tsid">DDODADA2VEI26MM</str>
+			</object>
+			<object id="PCR11BHHPVN1AIQ">
+				<str id="tsid">DIFGKON9QEI2ESL</str>
+			</object>
+			<object id="PHF9GL57H2D2A7P">
+				<str id="tsid">DUVCRUJAQEI2JA1</str>
+			</object>
+			<object id="PUVBSJMQP5D2TC8">
+				<str id="tsid">DDOEQ75BQEI2MAB</str>
+			</object>
+			<object id="PHVOB27OFM52R2J">
+				<str id="tsid">DUVTC3FNAFI2CGM</str>
+			</object>
+			<object id="PHFNCFTVB4D2DNN">
+				<str id="tsid">DA5H09CAQEI2FEU</str>
+			</object>
+			<object id="PUVF5A16V5D2E0D">
+				<str id="tsid">DA5GM0C9QEI29T7</str>
+			</object>
+			<object id="PDOCT41944V2NAR">
+				<str id="tsid">DDOCU11944V2UJ4</str>
+			</object>
+			<object id="PIF1C9TQRCDGD">
+				<str id="tsid">DA9H46T9QEI2KMT</str>
+			</object>
+		</object>
+	</object>
+</game_object>

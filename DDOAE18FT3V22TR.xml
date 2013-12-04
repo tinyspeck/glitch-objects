@@ -1,0 +1,7 @@
+<game_object tsid="DDOAE18FT3V22TR" ts="1355106711175" label="Repeatable Failed" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 18:29:14.000">
+	<object id="dynamic">
+		<object id="quests">
+			<objref id="smuggling_basic" tsid="QUVQI3PUEM03CUQ"/>
+		</object>
+	</object>
+</game_object>

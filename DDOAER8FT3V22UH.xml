@@ -1,0 +1,53 @@
+<game_object tsid="DDOAER8FT3V22UH" ts="1355112616225" label="Furniture" class_tsid="dc" container="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:02.000">
+	<object id="dynamic">
+		<str id="storage_tsid">BDOAES8FT3V22UJ</str>
+		<object id="walls">
+			<object id="grey_unfinished">
+				<bool id="free_default">true</bool>
+				<int id="when">1337041918</int>
+			</object>
+			<object id="lightblue_stucco">
+				<bool id="free_default">true</bool>
+				<int id="when">1337041918</int>
+			</object>
+			<object id="yellow_boghouse">
+				<int id="paid_credits">0</int>
+				<int id="when">1337042085</int>
+			</object>
+			<object id="fabric_sky">
+				<str id="paid_credits">55</str>
+				<int id="when">1340400887</int>
+			</object>
+			<object id="blue_stucco">
+				<bool id="free_default">true</bool>
+				<int id="when">1343769675</int>
+			</object>
+		</object>
+		<object id="floors">
+			<object id="starter_crappy">
+				<bool id="free_default">true</bool>
+				<int id="when">1337041918</int>
+			</object>
+			<object id="woodpanel">
+				<bool id="free_default">true</bool>
+				<int id="when">1337041918</int>
+			</object>
+		</object>
+		<object id="ceilings">
+			<object id="starter_crappy_ceiling">
+				<bool id="free_default">true</bool>
+				<int id="when">1337041918</int>
+			</object>
+			<object id="white_crappy">
+				<int id="paid_credits">0</int>
+				<int id="when">1337042012</int>
+			</object>
+		</object>
+		<object id="chassis">
+			<object id="219">
+				<undefined id="paid_credits"/>
+				<int id="when">1337148145</int>
+			</object>
+		</object>
+	</object>
+</game_object>

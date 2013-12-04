@@ -1,0 +1,146 @@
+<game_object tsid="BDOAES8FT3V22UJ" ts="1355112616276" label="Private Furniture Storage" class_tsid="bag_furniture" count="1" container="PDOADP8FT3V22TI" tcont="PDOADP8FT3V22TI" upd_gs="gs6" load_time="2012-12-09 20:08:01.000">
+	<object id="dynamic">
+	</object>
+	<int id="x">-888888888</int>
+	<int id="y">-888888888</int>
+	<objref id="container" tsid="PDOADP8FT3V22TI" label="Apoidea"/>
+	<objrefs id="items">
+		<objref tsid="BHFDL2CS7T230LT" label="Cabinet"/>
+		<objref tsid="IUV67A83N223H6V" label="Gem Trophy"/>
+		<objref tsid="IHF8NPGHOQ23R5L" label="Tabletop Decoration"/>
+		<objref tsid="BHFP7VOTNL13SGM" label="Storage Display Box"/>
+		<objref tsid="IHFF0G4ICS23AD7" label="Wall Decoration"/>
+		<objref tsid="IDOAF48FT3V230S" label="Room Decoration"/>
+		<objref tsid="IHF84OH9OQ2373K" label="Tabletop Decoration"/>
+		<objref tsid="IHF8F5KDOQ236G2" label="Tabletop Decoration"/>
+		<objref tsid="IHFHB98G4S23C1M" label="Armchair"/>
+		<objref tsid="BHFKE969VR130LI" label="Storage Display Box"/>
+		<objref tsid="IHF8EVJDOQ23TG6" label="Tabletop Decoration"/>
+		<objref tsid="IHFE11T8CS23MVN" label="Wall Decoration"/>
+		<objref tsid="IHF8AL0COQ23VCS" label="Tabletop Decoration"/>
+		<objref tsid="IHF8HOIEOQ23TR9" label="Tabletop Decoration"/>
+		<objref tsid="BHFDTV5V7T23ORE" label="Cabinet"/>
+		<objref tsid="IHF8F7KDOQ238RB" label="Tabletop Decoration"/>
+		<objref tsid="BHFP2D6SNL1394J" label="Storage Display Box"/>
+		<objref tsid="IHF84NH9OQ236FV" label="Tabletop Decoration"/>
+		<objref tsid="BHFDHE3R7T23VER" label="Cabinet"/>
+		<objref tsid="IHFJPITDL323AE6" label="Gas Trophy"/>
+		<objref tsid="IHF8HIIEOQ23DBM" label="Tabletop Decoration"/>
+		<objref tsid="IHFAGKFBPQ230S1" label="Table Lamp"/>
+		<objref tsid="IHF8NSHHOQ231M7" label="Tabletop Decoration"/>
+		<objref tsid="IHF8HEIEOQ230P9" label="Tabletop Decoration"/>
+		<objref tsid="IHFEML0ECS23J8N" label="Wall Decoration"/>
+		<objref tsid="IUVKHO7O5S23DFF" label="Sofa"/>
+		<objref tsid="BHFEBQN28T2319B" label="Cabinet"/>
+		<objref tsid="IHFE0RT8CS23D09" label="Wall Decoration"/>
+		<objref tsid="IHFE8PNACS23DTB" label="Wall Decoration"/>
+		<objref tsid="BHFMRROC0S13JBO" label="Storage Display Box"/>
+		<objref tsid="IA91NJ9E24V24US" label="Shelf"/>
+		<objref tsid="IIF1RIHQVH43C8J" label="XS Music Trophy"/>
+		<objref tsid="BHFDMRUS7T23IAC" label="Cabinet"/>
+		<objref tsid="BHFG0L3GT91348C" label="Storage Display Box"/>
+		<objref tsid="IHF8EOJDOQ23NUO" label="Tabletop Decoration"/>
+		<objref tsid="BHFKE659VR13SB6" label="Storage Display Box"/>
+		<objref tsid="BHFDMQUS7T23F0B" label="Cabinet"/>
+		<objref tsid="BHFMV2LD0S1395U" label="Storage Display Box"/>
+		<objref tsid="IHF8F0JDOQ23VLP" label="Tabletop Decoration"/>
+		<objref tsid="IHF8HLIEOQ23K1K" label="Tabletop Decoration"/>
+		<objref tsid="IHFAGMFBPQ23786" label="Table Lamp"/>
+		<objref tsid="BHFOGMHC6S23Q2K" label="Wall Cabinet"/>
+		<objref tsid="IHF84LH9OQ2356T" label="Tabletop Decoration"/>
+		<objref tsid="BHFMUTKD0S13H31" label="Storage Display Box"/>
+		<objref tsid="IHF8O0HHOQ23EUE" label="Tabletop Decoration"/>
+		<objref tsid="IHFA7778PQ239RO" label="Table Lamp"/>
+		<objref tsid="IHFEMJ0ECS23FH5" label="Wall Decoration"/>
+		<objref tsid="IHFHC3GG4S23T6I" label="Chair"/>
+		<objref tsid="IHF8AK0COQ23UM8" label="Tabletop Decoration"/>
+		<objref tsid="BHFDHD3R7T23RRI" label="Cabinet"/>
+		<objref tsid="IHF8O2HHOQ23LF9" label="Tabletop Decoration"/>
+		<objref tsid="BHFG1FLGT913U7T" label="Storage Display Box"/>
+		<objref tsid="IHFE12T8CS23Q86" label="Wall Decoration"/>
+		<objref tsid="IHF84KH9OQ234GV" label="Tabletop Decoration"/>
+		<objref tsid="IDOAET8FT3V22VN" label="Chair"/>
+		<objref tsid="INV57OI6P653395" label="DB Music Trophy"/>
+		<objref tsid="IHFF0K4ICS23KDF" label="Wall Decoration"/>
+		<objref tsid="IHF8AM1COQ23003" label="Tabletop Decoration"/>
+		<objref tsid="BHFDL1BS7T23T7E" label="Cabinet"/>
+		<objref tsid="BHFERK27M413FF6" label="Storage Display Box"/>
+		<objref tsid="IDOAF28FT3V230F" label="Floor Lamp"/>
+		<objref tsid="BHFKDV59VR13GL4" label="Storage Display Box"/>
+		<objref tsid="BHFMROOC0S137F7" label="Storage Display Box"/>
+		<objref tsid="IDOAEV8FT3V22V1" label="Shelf"/>
+		<objref tsid="IHFOIUUC6S23G69" label="Desk"/>
+		<objref tsid="IHFE8QNACS23H8A" label="Wall Decoration"/>
+		<objref tsid="IHF8HMIEOQ23NAA" label="Tabletop Decoration"/>
+		<objref tsid="IHF8AQ1COQ2321E" label="Tabletop Decoration"/>
+		<objref tsid="IHF8AN1COQ230MO" label="Tabletop Decoration"/>
+		<objref tsid="IHF84GH9OQ231P6" label="Tabletop Decoration"/>
+		<objref tsid="IHFE8MNACS23408" label="Wall Decoration"/>
+		<objref tsid="BHFMRGNC0S13HAI" label="Storage Display Box"/>
+		<objref tsid="IHF8NVHHOQ23BK0" label="Tabletop Decoration"/>
+		<objref tsid="BHFG1ELGT913R9V" label="Storage Display Box"/>
+		<objref tsid="IHF8NQGHOQ23UCF" label="Tabletop Decoration"/>
+		<objref tsid="IHFQ59OMUH73VB4" label="DR Music Trophy"/>
+		<objref tsid="BHFP2G6SNL13EPR" label="Storage Display Box"/>
+		<objref tsid="IHF8HGIEOQ236MI" label="Tabletop Decoration"/>
+		<objref tsid="IHFA4V67PQ23AUA" label="Stool"/>
+		<objref tsid="IHF8AS1COQ233D4" label="Tabletop Decoration"/>
+		<objref tsid="IHFF0I4ICS23DR9" label="Wall Decoration"/>
+		<objref tsid="IHF8F1KDOQ231MQ" label="Tabletop Decoration"/>
+		<objref tsid="IHF84HH9OQ232D0" label="Tabletop Decoration"/>
+		<objref tsid="IHFE16U8CS2310H" label="Wall Decoration"/>
+		<objref tsid="IHF8HKIEOQ23GP4" label="Tabletop Decoration"/>
+		<objref tsid="IHFE0UT8CS23JH2" label="Wall Decoration"/>
+		<objref tsid="IHFAGLFBPQ23421" label="Table Lamp"/>
+		<objref tsid="IHF84JH9OQ233RC" label="Tabletop Decoration"/>
+		<objref tsid="IHFAGIEBPQ23QBU" label="Table Lamp"/>
+		<objref tsid="IHF8O3HHOQ23OQH" label="Tabletop Decoration"/>
+		<objref tsid="IHFEMO0ECS23MJM" label="Wall Decoration"/>
+		<objref tsid="IHF5BKNSQV13VVI" label="Emblem Trophy"/>
+		<objref tsid="IDOAF08FT3V22VL" label="Ceiling Lamp"/>
+		<objref tsid="IHF84MH9OQ235RR" label="Tabletop Decoration"/>
+		<objref tsid="BHFDNNFT7T2329D" label="Cabinet"/>
+		<objref tsid="IHF8O1HHOQ23I6I" label="Tabletop Decoration"/>
+		<objref tsid="BHFMV5LD0S13MGM" label="Storage Display Box"/>
+		<objref tsid="IHF8HNIEOQ23QKA" label="Tabletop Decoration"/>
+		<objref tsid="IHF8AO1COQ231BS" label="Tabletop Decoration"/>
+		<objref tsid="IHFE8LNACS230N5" label="Wall Decoration"/>
+		<objref tsid="IHFE15T8CS23TJJ" label="Wall Decoration"/>
+		<objref tsid="IDOAEU8FT3V22VK" label="Table"/>
+		<objref tsid="IHF8ETJDOQ23RES" label="Tabletop Decoration"/>
+		<objref tsid="IHF8NTHHOQ23544" label="Tabletop Decoration"/>
+		<objref tsid="IHF8AR1COQ232N7" label="Tabletop Decoration"/>
+		<objref tsid="IHFEMT1ECS230QJ" label="Wall Decoration"/>
+		<objref tsid="IHF8AU1COQ2352O" label="Tabletop Decoration"/>
+		<objref tsid="BHFMRFNC0S13BUL" label="Storage Display Box"/>
+		<objref tsid="IHF372MJ0S2393N" label="Table Lamp"/>
+		<objref tsid="IHFM6J42M323AEG" label="Bubble Trophy"/>
+		<objref tsid="IHFACSR9PQ23233" label="Wall Lamp"/>
+		<objref tsid="IHF8ESJDOQ23QA3" label="Tabletop Decoration"/>
+		<objref tsid="IHF8HFIEOQ2343I" label="Tabletop Decoration"/>
+		<objref tsid="IHFE0TT8CS23G97" label="Wall Decoration"/>
+		<objref tsid="IHFGBP494S23AUR" label="Room Decoration"/>
+		<objref tsid="IHF8NUHHOQ238CD" label="Tabletop Decoration"/>
+		<objref tsid="IHF84IH9OQ2332A" label="Tabletop Decoration"/>
+		<objref tsid="BDOAF18FT3V230I" label="Small Cabinet"/>
+		<objref tsid="IHFAHENBPQ23RAQ" label="Table Lamp"/>
+		<objref tsid="IDOAF78FT3V233I" label="Wall Decoration"/>
+		<objref tsid="IHF8F4KDOQ2347M" label="Tabletop Decoration"/>
+		<objref tsid="IHFEMS0ECS23TCB" label="Wall Decoration"/>
+		<objref tsid="BHFOES5C6S23JEV" label="Small Cabinet"/>
+		<objref tsid="IHFE8NNACS2378O" label="Wall Decoration"/>
+		<objref tsid="IHF8AT1COQ2348V" label="Tabletop Decoration"/>
+		<objref tsid="BHFMRPOC0S13D2E" label="Storage Display Box"/>
+		<objref tsid="IDOAF38FT3V2301" label="Tabletop Decoration"/>
+		<objref tsid="IHFF0J4ICS23H4B" label="Wall Decoration"/>
+		<objref tsid="IHFEMR0ECS23PUB" label="Wall Decoration"/>
+		<objref tsid="IA5ISRNQL3237M8" label="Spice Trophy"/>
+		<objref tsid="IHF8ERJDOQ23P4T" label="Tabletop Decoration"/>
+		<objref tsid="IHF8NOGHOQ23NPG" label="Tabletop Decoration"/>
+		<objref tsid="BHFKE359VR13NSH" label="Storage Display Box"/>
+		<objref tsid="IHF8HHIEOQ239S0" label="Tabletop Decoration"/>
+		<objref tsid="IHFE8ONACS23AIL" label="Wall Decoration"/>
+		<objref tsid="BHFP2I6SNL13N60" label="Storage Display Box"/>
+		<objref tsid="BHFP2C6SNL134AK" label="Storage Display Box"/>
+	</objrefs>
+</game_object>
